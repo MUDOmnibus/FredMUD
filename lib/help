@@ -1,0 +1,18 @@
+
+This MUD is based on DikuMUD, but has been changed in many ways:
+
+1. There are no classes.  All players are created equal.
+2. When you advance, you get practices, which can be used to learn
+   skills, spells, or to improve your stats.  The two locations to
+   know for this are the Guild and the Fitness Center.  Both are
+   south of the west end of Main St.
+3. It is probably wise to practice wisdom and constitution at first,
+   since these stats affect how fast you can grow.
+4. You can get to level 1000 by earning experience in the usual MUD
+   way.  After that things change.  By the time you get to level
+   1000 you'll probably know all about it.
+5. Look over the output of the commands COMMANDS and SPELLINFO.
+6. CAUTION: The commands NOSUMMON and NORELOCATE have been added to
+   protect you from predatory high level characters.  Use them!
+7. There are no gods on this MUD (except Rocko).
+

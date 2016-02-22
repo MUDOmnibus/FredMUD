@@ -1,0 +1,35 @@
+magic missile          2    25 | cure light             3    20
+armor                  4    10 | create food            5    10
+create water           6    50 | kerplunk               7    10
+chill touch            8    25 | strength              10    25
+blindness             12    10 | drain mr              14 25000
+burning hands         16    25 | reanimate             18    15
+cure blind            22    25 | cure critic           24    20
+curse                 28    25 | detect invisible      30    10
+invisibility          36    10 | shocking grasp        32    50
+remove poison         34    10 | energy drain          38    25
+earthquake            40    25 | enchant               42   100
+bless                 44    10 | heal                  46    50
+lightning bolt        48    75 | clone                 50    30
+dispel evil           54    25 | clarity               56    25
+charm person          58    10 | relocate              60    50
+colour spray          64    75 | poison                66    25
+protect from evil     68    10 | remove curse          70    10
+harm                  72    40 | sanctuary             74    75
+summon                76    50 | fearlessness          78    10
+infravision           80    10 | far sight             82    25
+regeneration          84    50 | word of recall        86     5
+transmogrification    88    50 | radiation             90    30
+sleep                 92    25 | sense life            94    10
+fireball              96   120 | extraheal             98    70
+invigorate           100   150 | barf                 100    90
+hold alignment       120    50 | sunburst             128   200
+forgetfulness        130    50 | haste                135   250
+cyclone              140    35 | transmutation        150  5000
+enantiomorphia       155   350 | burlyheal            160   250
+groupheal            175   250 | oesophagostenosis    180   250
+slime                200   600 | nova                 205   100
+dispel spell         235   750 | extremelyburlyheal   245  2250
+gas                  250  1100 | hyper regeneration   265   500
+stupidity            295   250 | doppelganger         300  2000
+jingle               350  3500 | 

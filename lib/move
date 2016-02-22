@@ -1,0 +1,4 @@
+for i in shp wld mob obj zon
+do
+   cp big.$i tinyworld.$i
+done

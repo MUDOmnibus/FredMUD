@@ -1,0 +1,5087 @@
+#0
+LIMBO~
+3 1 0
+S
+#13
+Mel's Doghouse~
+1399 20 2
+M 0 1300 1 1302   Alley Cat
+M 0 6008 4 1303   Mouse
+M 0 6009 4 1303   Cockroach
+M 0 6010 2 1303   Kangaroo
+M 0 6011 2 1303   Aardvark
+M 0 6012 2 1303   Llama
+S
+#14
+Houses~
+1499 20 2
+M 0 1458 1 1566     Tinker
+M 0 1314 1 1301     Wilbur
+E 1 1378 1 3        LOT
+E 1 1543 1 16       WD
+E 1 1370 1 11       BP
+M 0 1311 1 3065    The Metaphysician
+M 0 1450 2 1454
+M 0 1454 1 1454
+G 1 1461 100
+G 1 1471 100
+G 1 1475 100
+G 1 1597 10
+G 1 1599 10
+M 0 1459 1 1460   Sloan
+E 1 1460 1 17      philosophical key
+G 1 1459 100       espresso
+O 1 1000 5 1471
+O 1 1000 5 1472
+O 1 1000 5 1473
+M 1 1471 1 1471   Barker
+O 1 1480 1 1471   Wheel
+M 0 1470 6 1471
+M 0 1470 6 1471
+M 1 1472 1 1472   Dealer
+M 0 1470 6 1472
+M 0 1470 6 1472
+M 1 1473 1 1473   Slim
+M 0 1470 6 1473
+M 0 1470 6 1473
+M 0 1460 1 1460
+E 1 2829 99 3     Milky Potion
+E 1 2829 99 4     Milky Potion
+E 1 2829 99 13    Milky Potion
+E 1 2829 99 17    Milky Potion
+S
+#15
+Northern Midgaard~
+1699 20 2
+D 0 1587 2 2
+D 0 1600 0 2
+M 0 1580 2 1594
+E 1 1307 2 16            wields a hammer
+M 0 1581 2 1594
+M 0 1582 2 1594
+M 0 1537 2 1524
+E 1 1555 2 5
+M 0 1538 2 1524
+E 1 1556 2 7
+M 0 1539 2 1524
+E 1 1558 2 19
+M 0 1534 2 1524
+E 1 1559 2 18
+M 0 1535 2 1524
+G 1 1557 2
+M 0 1533 2 1524
+M 0 1575 1 1530
+M 0 1570 1 1592
+E 1 1580 2 10
+M 0 1571 1 1592
+M 0 1572 1 1592
+M 0 1573 1 1592
+M 0 1574 1 1592
+M 0 1500 5 1500
+M 0 1501 5 1512
+E 1 1500 3 3
+M 0 1502 5 1513
+E 1 1505 3 17
+M 0 1503 5 1525
+E 1 1501 3 5
+M 0 1504 5 1526
+E 1 1502 3 8
+M 0 1505 5 1538
+E 1 1508 3 14
+M 0 1506 5 1539
+E 1 1511 3 13
+M 0 1507 5 1551
+E 1 1506 3 3
+M 0 1508 5 1552
+E 1 1512 3 20
+M 0 1509 5 1564
+E 1 1503 2 1
+M 0 1509 5 1564
+E 1 1504 2 2
+M 0 1543 1 1565
+M 0 1510 5 1581
+M 0 1510 5 1587
+M 0 1500 5 1630
+M 0 1501 5 1642
+M 0 1502 5 1617
+M 0 1501 5 1512
+M 0 1503 5 1629
+M 0 1504 5 1604
+M 0 1501 5 1512
+M 0 1505 5 1516
+M 0 1506 5 1591
+M 0 1501 5 1512
+M 0 1507 5 1603
+M 0 1508 5 1578
+M 0 1511 5 1506
+M 0 1511 5 1519
+M 0 1512 5 1530
+M 0 1514 3 1599
+E 1 1509 2 3
+M 0 1515 4 1505
+M 0 1515 4 1508
+M 0 1527 5 1521
+M 0 1527 5 1542
+M 0 1527 5 1563
+E 1 1513 5 17
+M 0 1527 5 1584
+M 0 1527 5 1605
+M 0 1528 5 1505
+M 0 1528 5 1530
+M 0 1528 5 1555
+E 1 1514 5 20
+M 0 1528 5 1580
+M 0 1528 5 1605
+M 0 1529 4 1500
+M 0 1529 4 1512
+M 0 1529 4 1656
+M 0 1529 4 1668
+M 0 1526 5 1545
+M 0 1513 1 1512    Plasterman
+E 1 1525 1 7         cords
+E 1 1520 1 16        putty knife
+E 1 1308 -50 18      OMR
+M 0 1536 1 1517    Cruiser Bob
+E 1 1536 -50 18        radio
+E 1 1537 -25 12        raincoat
+E 1 1538 -25 9         riding gloves
+E 1 1539 -25 19        riding goggles
+M 0 1521 1 1522      Motel Clerks
+M 0 1522 1 1644
+M 0 1520 1 1596      The High School Kid
+G 1 3004 500
+G 1 1530 500            cheeseburger
+G 1 1531 500            large coke
+E 1 1529 5 19
+M 0 1523 1 1520      Pawnbroker
+G 1 1309 200            CB radio
+G 1 1473 10             colt bullets
+M 0 1524 1 1550      Lout
+G 1 3033 200
+G 1 3032 200
+G 1 2413 200
+M 0 1525 1 1518      Pharmacist
+G 1 1381 100
+G 1 1335 100
+G 1 2137 100
+G 1 6110 100
+M 0 3155 12 1518      Security
+M 0 3155 12 1518
+M 0 3155 12 1518
+E 1 7204 10 17        neon blue
+M 0 1530 1 1650      Strange Old Lady
+M 0 3154 10 1518     Cops
+M 0 1532 1 1652      Gus
+G 1 1552 50
+G 1 1551 50
+G 1 1550 50
+G 1 1473 50
+G 1 3301 50
+M 0 1540 1 1561
+E 1 1515 3 10
+M 0 1531 1 1574      Junk Dealer
+M 0 1516 4 1542      White Collar Worker
+E 1 1510 1 14
+M 0 1516 4 1542
+M 0 1518 1 1599      Super Thug
+E 1 1544 1 19         moustache
+M 0 1541 1 1668      Phantasmagorically
+E 1 1541 1 3          necklace
+M 0 1542 1 1530      Incomprehensibly
+E 1 1546 1 3          mauve amulet
+M 0 1519 1 1544      Old Babe
+E 1 2307 -10 17       black light
+M 0 3155 12 1544
+M 0 3155 12 1544
+E 1 7204 10 17        neon blue
+M 0 1544 5 1505      Crook
+M 0 1544 5 1536
+M 0 1544 5 1583
+M 0 1544 5 1585
+M 0 1544 5 1608
+M 0 1545 1 1568
+M 0 1550 1 1530     Dog 1
+M 0 1551 1 1532     Dog 2
+M 0 1552 1 1534     Dog 3
+M 0 1553 1 1536     Dog 4
+M 0 1560 1 1662     Bowser
+E 1 1562 1 18
+E 1 1560 1 6
+E 1 1561 4 17
+M 0 1561 1 1555     FUH
+E 1 1563 1 8
+E 1 1602 1 17
+E 1 1603 1 9
+M 0 1562 1 1584     Bash
+E 1 1604 1 13
+E 1 1561 4 17
+M 0 1563 1 1584     Sneaky
+E 1 2419 2 17
+M 0 1564 1 1506     Mrs. Tomo
+E 1 1564 1 18
+E 1 1565 1 14
+E 1 1566 1 21
+E 1 1567 1 16
+S
+#17
+SHIRE~
+1799 20 2
+O 0 1702 1 1703		Sign
+M 0 1718 1 1705  	General Store Shopkeeper
+G 1 3032 999		bags
+G 1 6004 999		lanterns
+M 0 1720 1 1707		Blacksmith
+G 1 1305 5		Halberd
+G 1 7191 5		gold ring
+G 1 1911 10             backpack
+M 0 1704 2 1708		Nursemaids
+M 0 1704 2 1708
+M 0 1703 6 1708		Toddlers
+M 0 1703 6 1708
+M 0 1703 6 1708
+M 0 1703 6 1708
+M 0 1703 6 1708
+M 0 1703 6 1708
+M 0 1710 8 1710		Non-mobile shiriffs
+E 1 1709 3 16		Tiny dagger
+E 1 3043 110 5		Leather armour
+M 0 1710 8 1710
+E 1 3043 110 5
+M 0 1711 4 1711		Mobile shiriff
+E 1 3043 110 5
+M 0 1712 1 1711		Thain
+E 1 3022 110 16		Long sword
+E 1 1708 5 13
+M 0 1728 4 1714		Country bumpkin
+M 0 1728 4 1715		Country bumpkin
+M 0 1713 1 1716		Innkeeper - Ivy Bush
+G 1 1710 999		eggs
+G 1 3002 999		ale
+G 1 3100 999		cups
+M 0 1723 4 1716		Seasoned adventurers
+M 0 1723 4 1716
+M 0 1724 2 1716		Gossips
+M 0 1724 2 1716
+M 0 1727 7 1716		Chic urbanites
+M 0 1727 7 1716
+M 0 1727 7 1716
+M 0 1721 1 1717		Battle master
+M 0 1726 3 1717		Trainees
+E 1 3021 110 16		Small sword
+M 0 1726 3 1717
+E 1 3021 110 16
+M 0 1726 3 1717
+E 1 3021 110 16
+M 0 1710 8 1719		Non-mobile shiriffs
+E 1 1709 3 16		Tiny dagger
+E 1 3043 110 5
+M 0 1711 8 1719
+E 1 3043 110 5
+M 0 1711 4 1719		Mobile shiriff
+E 1 3043 110 5
+M 0 1719 1 1721		Grocer
+G 1 1703 999		pipeweed bread
+M 0 1715 6 1723		Mill workers
+M 0 1715 6 1723
+M 0 1715 6 1724
+M 0 1715 6 1724
+M 0 1715 6 1724
+M 0 1714 1 1724		Miller
+M 0 1715 6 1725		Mill workers
+M 0 1722 9 1727		Halfing youths
+M 0 1722 9 1727
+M 0 1722 9 1727
+M 0 1722 9 1729
+M 0 1722 9 1729
+M 0 1722 9 1729
+M 0 1722 9 1730
+M 0 1722 9 1730
+M 0 1722 9 1730
+M 0 1725 1 1728		Beauty
+M 0 1700 1 1728		Wizard
+E 1 2827 5 17           Milky Potion
+E 1 1704 1 12		Silvery cloak
+E 1 1700 1 0		Rainbow staff
+M 0 1716 1 1736		Elven warrior
+E 1 1706 1 16		Elven bow
+E 1 3075 25 6		Bronze helmet
+M 0 1717 1 1736		Dwarven prince
+E 1 1707 1 16		Mithril axe
+E 1 3046 11 5		Bronze breast plate
+M 0 1701 1 1737		Ring keeper
+E 1 1701 1 16		Sting
+E 1 1715 1 1		One ring
+E 1 3080 15 7		Bronze leggings
+M 0 1708 1 1738		Bull
+M 0 1706 5 1739		Pigs
+M 0 1706 5 1739
+M 0 1706 5 1739
+M 0 1706 5 1739
+M 0 1706 5 1739
+M 0 1702 1 1741		Farmer Gamgee
+M 0 1705 3 1742		Cows
+M 0 1705 3 1742
+M 0 1705 3 1742
+M 0 1709 4 1742		Horses
+M 0 1709 4 1742
+M 0 1709 4 1742
+M 0 1709 4 1742
+M 0 1707 6 1743		Chickens
+G 1 1710 110		egg
+M 0 1707 6 1743
+G 1 1710 110
+M 0 1707 6 1743
+G 1 1710 110
+M 0 1707 6 1743
+G 1 1710 110
+M 0 1707 6 1743
+G 1 1710 110
+M 0 1707 6 1743
+G 1 1710 110
+M 0 1730 1 1744		Innkeeper - Green Dragon
+G 1 1710 999		eggs
+G 1 3002 999		ale
+G 1 3100 999		tea
+M 0 1731 1 1757         receptionist - green dragon
+M 0 1723 6 1744		Seasoned adventurers
+M 0 1723 6 1744
+M 0 1723 6 1744
+M 0 1727 7 1744		Chic urbanites
+M 0 1727 7 1744
+M 0 1727 7 1744
+M 0 1727 7 1744
+M 0 1710 8 1745		Non-mobile shiriffs
+E 1 1709 3 16		Tiny daggers
+E 1 3043 110 5		Leather armour
+M 0 1711 8 1745
+E 1 3043 110 5
+M 0 1711 4 1745		Mobile shiriff
+E 1 3043 110 5
+M 0 1710 8 1753		Non-mobile shiriffs
+E 1 1709 3 16		Tiny daggers
+E 1 3043 110 5		Leather armour
+M 0 1710 8 1753
+E 1 3043 110 5
+M 0 1711 4 1753		Mobile shiriff
+E 1 3043 110 5
+M 0 1728 4 1754		Country bumpkin
+M 0 1728 4 1755		Country bumpkin
+S
+#19
+The Lands~
+1999 40 2
+M 0 1901 2 1967
+E 1 1910 4 16
+M 0 1901 2 1954
+E 1 1910 4 16
+M 0 1902 6 1928
+M 0 1902 6 1928
+M 0 1902 6 1929
+M 0 1902 6 1920
+M 0 1902 6 1927
+M 0 1902 6 1939
+M 0 1903 3 1906
+E 1 1902 3 16
+G 1 1905 50
+M 0 1903 3 1911
+E 1 1902 3 16
+G 1 1905 50
+M 0 1904 10 1953
+M 0 1904 10 1955
+M 0 1904 10 1955
+M 0 1904 10 1973
+M 0 1904 10 1982
+M 0 1904 10 1982
+M 0 1904 10 1971
+M 0 1904 10 1963
+M 0 1904 10 1966
+M 0 1904 10 1945
+M 0 1905 4 1945
+E 1 1903 4 16
+G 1 1918 30
+M 0 1905 4 1947
+E 1 1903 4 16
+G 1 1918 30
+M 0 1906 2 1945
+M 0 1906 2 1947
+M 0 1907 1 1907
+M 0 1908 2 1905
+M 0 1909 1 1938
+E 1 1911 1 13
+M 0 1910 1 1984
+E 1 1908 1 16
+O 0 1916 4 1980
+O 0 1912 4 1980
+O 0 1919 1 1947
+P 1 1918 30 1919
+P 1 1918 30 1919
+P 1 1918 30 1919
+M 0 1911 1 1980
+E 1 1909 1 16
+G 1 1913 4
+G 1 1904 4
+G 1 1921 1
+M 0 1912 1 1985
+E 1 1924 1 14
+E 1 1901 1 16
+E 1 1923 1 17
+M 0 1913 2 1935
+M 0 1914 5 1933
+M 0 1914 5 1936
+M 0 1914 5 1939
+M 0 1915 1 1941
+E 1 1906 1 7
+M 0 1917 1 1988
+M 0 1918 6 1976
+M 0 1918 6 1976
+M 0 1918 6 1983
+M 0 1918 6 1977
+M 0 1918 6 1988
+M 0 1918 6 1981
+M 0 1919 1 1976
+M 0 1920 6 1955
+M 0 1920 6 1962
+M 0 1920 6 1958
+M 0 1920 6 1951
+M 0 3147 2 1955
+M 0 1921 5 1938
+M 0 1921 5 1929
+M 0 1922 2 1988
+M 0 1923 4 1959
+M 0 1923 4 1955
+M 0 1923 4 1981
+M 0 1924 1 1999
+E 1 1911 4 13
+M 0 1926 1 1938
+M 0 1927 1 1922
+M 0 1928 3 1922
+M 0 1928 3 1916
+M 0 1928 3 1916
+M 0 1930 5 1904
+M 0 1930 5 1903
+M 0 1930 5 1931
+M 0 1931 2 1963
+E 1 1910 4 16
+M 0 1931 2 1959
+E 1 1910 4 16
+M 0 1932 1 1961
+G 1 1905 100
+G 1 1913 100
+G 1 1925 100
+M 0 1933 1 1979
+G 1 1939 1
+M 0 1934 1 1949
+E 1 1907 1 16
+D 0 1916 2 1
+D 0 1915 0 1
+D 0 1949 3 1
+D 0 1946 1 1
+D 0 1935 5 1
+D 0 1940 0 1
+D 0 1942 2 1
+D 0 1960 1 1
+D 0 1959 3 1
+D 0 1966 1 1
+D 0 1974 3 1
+D 0 1968 5 1
+D 0 1979 4 1
+D 0 1974 1 1
+D 0 1970 3 1
+D 0 1975 0 1
+D 0 1976 2 1
+D 0 1985 5 2
+D 0 1987 4 2
+O 0 1922 1 1987
+P 1 1914 1 1922
+P 1 1926 1 1922
+P 1 1921 1 1922
+M 0 1401 1 1952
+S
+#21
+The Wasteland~
+2199 30 2
+D 0 2120 3 1  Door to Stone Shelter
+D 0 2140 1 1
+D 0 2140 5 1  Grate under Stone Shelter
+D 0 2135 4 1
+D 0 2113 5 1  Cover to Well
+D 0 2141 4 1
+D 0 2128 0 1  Door to building with Harpies
+D 0 2145 2 1
+D 0 2148 2 1  Door to the Gorgons
+D 0 2150 0 1
+D 0 2155 0 1  Door to the cage
+D 0 2156 2 1
+D 0 2130 5 1  The plate
+D 0 2165 4 1
+D 0 2175 2 1  Door to the Lesser Gods
+D 0 2176 0 1
+D 0 2187 0 1  Door to the Furies
+D 0 2188 2 1
+D 0 2195 2 1  Door from Alcove to Field
+D 0 2194 0 1
+D 0 2151 2 1  Curtain to Proserpina's Bath
+D 0 2160 0 1
+D 0 2193 5 2  Grate to the Hydra
+D 0 2196 4 2
+M 0 2125 1 2128    The Blob
+E 1 2160 1 17       octahedron
+M 0 2102 30 2126
+G 1 2113 10
+M 0 2102 30 2126
+G 1 2101 10
+M 0 2102 30 2126
+G 1 2103 10
+M 0 2102 30 2126
+G 1 2105 10
+M 0 2102 30 2126
+G 1 2102 10
+M 0 2102 30 2126
+G 1 2104 10
+M 0 2102 30 2126
+G 1 2108 10
+M 0 2102 30 2126
+G 1 2106 10
+M 0 2102 30 2115
+G 1 2109 10
+M 0 2102 30 2115
+G 1 2112 10
+M 0 2102 30 2115
+G 1 2110 10
+M 0 2102 30 2115
+M 0 2102 30 2112
+G 1 2107 10
+M 0 2102 30 2112
+G 1 2111 10
+M 0 2102 30 2112
+G 1 2100 10
+M 0 2102 30 2112
+M 0 2101 30 2128
+M 0 2101 30 2128
+M 0 2101 30 2128
+M 0 2101 30 2129
+M 0 2101 30 2129
+E 1 2158 6 16
+M 0 2101 30 2129
+M 0 2101 30 2130
+M 0 2101 30 2130
+E 1 2158 6 16
+M 0 2101 30 2130
+M 0 2101 30 2130
+M 0 2101 30 2122
+M 0 2101 30 2122
+M 0 2101 30 2122
+M 0 2101 30 2123
+M 0 2101 30 2123
+E 1 2161 3 17
+M 0 2101 30 2123
+M 0 2101 30 2124
+M 0 2101 30 2124
+M 0 2101 30 2124
+M 0 2105 1 2149  Harpies
+E 1 2123 -25 3      amulet
+M 0 2104 1 2149
+G 1 2139 4        candlestick
+M 0 2103 1 2149
+E 1 2121 -25 12     brown cloak
+M 0 2106 1 2142  Statue of Hades
+E 1 2120 -25 16     fork
+E 1 2161 6 17     super blue
+M 0 2109 1 2150 Gorgons
+E 1 2124 6 16
+E 1 2127 6 11
+M 0 2108 1 2150
+E 1 2125 6 3
+M 0 2107 1 2150
+E 1 2126 6 3
+M 0 2110 1 2156 Monoceros
+G 1 2128 6
+M 0 2113 1 2188 Furies
+E 1 2131 6 14
+M 0 2112 1 2188
+E 1 2130 -25 14
+M 0 2111 1 2188
+E 1 2129 6 8
+M 0 2114 1 2176 The Lesser Gods
+E 1 2133 6 5
+M 0 2115 1 2176
+E 1 2132 6 16
+M 0 2116 1 2176
+E 1 2134 6 12
+M 0 2117 8 2170 Hounds
+M 0 2117 8 2162
+M 0 2117 8 2158
+M 0 2117 8 2158
+M 0 2117 8 2158
+M 0 2117 8 2158
+M 0 2117 8 2158
+M 0 2117 8 2158
+M 0 2118 1 2158 Hecate
+E 1 2135 6 1
+E 1 2150 6 16
+G 1 2138 1
+G 1 2141 1
+G 1 2828 4
+M 0 2119 1 2151 Proserpina
+E 1 2147 3 7
+E 1 2148 3 5
+E 1 2149 3 8
+E 1 2151 3 13
+E 1 2122 6 1      emerald ring
+G 1 2153 2
+G 1 2829 99
+M 0 2121 6 2151 Eunuchs
+G 1 2137 4
+M 0 2121 6 2151
+G 1 2140 4
+M 0 2121 6 2151
+M 0 2121 6 2151
+M 0 2122 1 2139 Hypnos
+E 1 2136 6 6
+E 1 2159 1 17
+E 1 1330 3 18
+G 1 2827 5           Milky Potion
+G 1 2145 5
+G 1 2156 6
+G 1 2156 6
+M 0 2120 1 2189 Hades
+E 1 2142 3 6
+E 1 2143 3 16
+E 1 2144 3 9
+E 1 2162 1 11   Shield
+E 1 2163 1 18   Radio
+E 1 2155 2 14
+E 1 2155 2 15
+E 1 2152 1 17   Black Key
+M 0 2123 9 2189 Larger Hounds
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2123 9 2189
+M 0 2124 1 2196 Hydra
+E 1 2157 2 17
+E 1 2154 1 10
+E 1 17021 1 13
+O 0 2146 6 2160 Grapes in Proserpina's Chamber
+M 0 2126 6 2199 Faeries protecting Hypnos
+M 0 2126 6 2199
+M 0 2126 6 2199
+S
+#23
+MidGaard University~
+2399 31 2
+D 0 2341 2 1  Admin Doors
+D 0 2349 0 1
+D 0 2340 2 1
+D 0 2348 0 1
+D 0 2348 2 1
+D 0 2356 0 1
+D 0 2342 1 1
+D 0 2343 3 1
+D 0 2350 1 1
+D 0 2351 3 1
+D 0 2345 1 1  Library Doors
+D 0 2346 3 1
+D 0 2305 1 1  Classroom Bldg
+D 0 2306 3 1
+D 0 2344 2 1  Math Bldg
+D 0 2352 0 1
+D 0 2324 3 1  Science Building
+D 0 2370 1 1
+D 0 2375 0 1  President's House
+D 0 2376 2 1
+D 0 2378 0 1
+D 0 2379 2 1
+D 0 2390 0 1  Frat House
+D 0 2391 2 1
+D 0 2396 0 1
+D 0 2397 2 1
+M 0 2300 3 2301  Dumb Fresh
+M 0 2300 3 2303  Dumb Fresh
+M 0 2300 3 2316  Dumb Fresh
+M 0 2301 3 2339  Smart Fresh
+M 0 2301 3 2315
+M 0 2301 3 2315
+M 0 2302 1 2355  Honor Student
+E 1 6110 3 17     str potion
+M 0 2303 3 2307  Sophomore
+M 0 2303 3 2307
+M 0 2303 3 2315
+M 0 2306 3 2339  Lib Asst
+M 0 2306 3 2398
+E 1 2331 1 17     paperweight
+M 0 2306 3 2399
+M 0 2307 1 2371  Chem Student
+M 0 2308 2 2372  Physics Student
+M 0 2308 2 2372
+G 1 2311 1        power pack
+M 0 2309 2 2323  Junior
+M 0 2309 2 2323
+M 0 2310 3 2331  Philosophy Student
+M 0 2310 3 2331
+M 0 2310 3 2331
+M 0 2311 2 2307  Teaching Asst
+M 0 2311 2 2315  Teaching Asst
+M 0 2312 1 2346  Librarian
+E 1 2346 1 19     glasses
+M 0 2313 3 2323  Senior
+M 0 2313 3 2324  Senior
+M 0 2313 3 2326  Senior
+E 1 2323 4 1      class ring
+M 0 2314 1 2327  Dumb Jock
+E 1 2304 2 7      kneepads
+E 1 2321 2 3      neck brace
+M 0 2315 1 2330
+M 0 2316 1 2371  Chem Prof
+E 1 2324 5 17     beaker
+E 1 2320 1 5      lab coat
+M 0 2317 1 2372  Physics Prof
+E 1 2310 1 17     laser
+M 0 2318 1 2336
+M 0 2335 1 2373  Geology Prof
+E 1 2329 2 17     earthquake stick
+M 0 2350 1 2388  Astro Prof
+M 0 2351 1 2386  Astro Secretary
+M 0 2319 1 2351  Assoc Dean
+M 0 2320 1 2353  Chair
+M 0 2321 1 2359  Football Coach
+E 1 2303 3 13     cloth belt
+E 1 2302 2 7      sweat pants
+M 0 2322 1 2353  Visiting Scholar
+M 0 2323 1 2323  Eng Prof
+M 0 2324 1 2325  History Prof
+E 1 2306 2 5      Tweed Coat
+M 0 2325 1 2331  Philosophy Prof
+E 1 2325 1 17     philosophers stone
+M 0 2326 1 2343  Dean
+M 0 2327 2 2361  Math Prof
+E 1 2305 1 17
+M 0 2327 2 2361  Math Prof
+M 0 2328 1 2340  VP
+M 0 2329 1 2357  Provost
+E 1 2326 1 17     diploma
+M 0 2330 1 2309  Gardener
+E 1 2327 2 16     shears
+M 0 2340 1 2392  Cook
+E 1 2340 2 16     knife
+M 0 2341 4 2394  Pledge
+M 0 2341 4 2395
+M 0 2342 1 2394  Junior Frat Boy
+M 0 2344 1 2394  Senior Frat Boy
+M 0 2304 1 2394  Sorority Girl
+M 0 2305 1 2394  Frat Boy
+M 0 2343 2 2397  Drunken Frat Boy
+M 0 2343 2 2397
+M 0 2346 1 2352  MB
+E 1 2347 1 17
+O 0 3000 1 2394  Beer Barrel
+M 0 2331 25 2368 Pigeons
+M 0 2331 25 2367
+M 0 2331 25 2312
+M 0 2331 25 2328
+M 0 2331 25 2334
+M 0 2332 3 2377  Alumnus
+M 0 2333 1 2379  President
+E 1 2328 1 14      Gold Watch
+M 0 2334 4 2379  Doberman
+M 0 2334 4 2379
+M 0 2334 4 2379
+M 0 2334 4 2379
+M 0 2336 3 2383  Pool Player
+E 1 2330 3 16     pool cue
+M 0 2337 4 2384  Busboy
+M 0 2337 4 2384
+M 0 2345 1 2318  Basketball Star
+E 1 2345 2 10     elbow pads
+E 1 2332 2 21     white socks
+M 0 2338 1 2385  Cashier
+G 1 3032 90
+G 1 3101 90
+M 0 2352 1 2369  Psych Prof
+M 0 2353 6 2369  Bored Fresh
+M 0 2353 6 2369
+M 0 2353 6 2369
+M 0 2353 6 2369
+M 0 2353 6 2369
+M 0 2353 6 2369
+S
+#24
+Medical School~
+2499 32 2
+M 0 2402 1 2402  Admissions Dean
+M 0 2401 4 2404  Med Student in Lecture Hall
+M 0 2401 4 2404
+M 0 2401 4 2404
+M 0 2401 4 2404
+M 0 2405 1 2404  Anatomy Prof
+M 0 2403 1 2410  Pharmacology
+M 0 2404 1 2407  Physiology
+M 0 2401 6 2405  Med Students in Hematology Lab
+M 0 2401 6 2405
+M 0 2406 2 2415  Cadaver in Anatomy Lab
+M 0 2406 2 2415
+M 0 2407 1 2416  Reaniamted corpse
+E 1 2401 1 17     regeneration wand
+M 0 2408 1 2416  Surgery Prof
+E 1 2405 3 9      gloves
+M 0 2409 1 2456  Lab Rat
+E 1 2430 -50 1      small silver ring
+M 0 2440 1 2417  Gerontology
+M 0 2441 1 2417  Pediatrics
+M 0 2410 1 2434  Nurse Nelson
+E 1 2402 1 3      stethoscope
+E 1 2403 1 7      stockings
+E 1 2404 1 5      uniform
+E 1 2421 1 17     key to medicine cabinet
+M 0 2411 1 2432  Patient
+M 0 2412 1 2433
+M 0 2413 1 2434
+M 0 2414 1 2435
+M 0 2415 1 2434
+M 0 2416 1 2434
+M 0 2417 1 2434
+M 0 2418 1 2434
+M 0 2419 1 2434
+M 0 2420 1 2434
+M 0 2421 1 2434
+M 0 2422 1 2434
+M 0 2423 1 2434
+M 0 2424 1 2434
+M 0 2425 1 2434
+M 0 2426 1 2433
+M 0 2427 1 2435
+M 0 2428 1 2435
+M 0 2429 1 2436
+O 0 2420 1 2434  Medicine Cabinet
+P 1 2413 9 2420   pillbox
+P 1 2417 3 2413    pills
+P 1 2418 3 2413
+P 1 2419 3 2413
+D 0 2400 2 1
+D 0 2401 0 1
+D 0 2415 1 1
+D 0 2416 3 1
+M 0 2460 3 2411
+M 0 2460 3 2412
+S
+#28
+The Island~
+2899 33 2
+D 0 2822 5 1
+D 0 2830 4 1
+D 0 2826 0 1
+D 0 2827 2 1
+D 0 2833 1 1
+D 0 2841 3 1
+D 0 2882 5 1
+D 0 2883 4 1
+M 0 1307 1 2801 	Peter Pan
+E 1 1369 1 11           Shield
+E 1 1447 1 16		Flaming Black Sword
+E 1 1447 1 17		Flaming Black Sword
+E 1 1311 -50 6          Green Hat
+E 1 1322 -50 8          Soft Leather Moccasins
+M 0 1310 1 2804  Tinker Belle
+M 0 2813 1 2822  Admiral
+M 0 2803 1 2811
+M 0 2807 1 2811
+M 0 2806 1 2821
+M 0 2815 1 2826
+M 0 2812 1 2827
+E 1 2805 2 5
+E 1 2806 2 6
+E 1 2809 2 16
+M 0 2804 1 2826
+M 0 2805 1 2805
+M 0 2808 1 2806
+M 0 2801 2 2825
+E 1 2810 2 16
+M 0 2802 2 2825
+E 1 2810 2 16
+M 0 2811 1 2822
+G 1 3002 999
+G 1 3010 999
+M 0 2810 1 2822
+M 0 2809 12 2838
+M 0 2809 12 2838
+E 1 2820 9 17     musket
+M 0 2809 12 2838
+E 1 2820 9 17     musket
+M 0 2809 12 2838
+M 0 2809 12 2838
+E 1 2820 9 17     musket
+M 0 2809 12 2838
+E 1 2808 4 1
+M 0 2809 12 2838
+E 1 2811 4 1
+M 0 2809 12 2838
+M 0 2809 12 2838
+E 1 2820 9 17     musket
+M 0 2809 12 2838
+M 0 2809 12 2838
+E 1 2820 9 17     musket
+M 0 2809 12 2838
+M 0 2814 1 2838
+E 1 2801 2 1
+E 1 2802 2 3
+E 1 2807 2 8
+E 1 2804 2 14
+M 0 2816 6 2833
+M 0 2816 6 2833
+M 0 2816 6 2839
+M 0 2816 6 2839
+M 0 2816 6 2839
+M 0 2816 6 2839
+M 0 2817 2 2828
+M 0 2817 3 2829
+M 0 2819 2 2818
+M 0 2819 2 2818
+M 0 2818 6 2847
+M 0 2818 6 2848
+O 0 2822 1 2848
+M 0 2820 2 2870    Assorted Primates
+M 0 2821 2 2872
+M 0 2822 2 2873
+M 0 2823 2 2867
+M 0 2824 2 2876
+M 0 2825 2 2876
+M 0 2826 2 2877
+M 0 2827 1 2877    Silverback
+M 0 2828 1 2874    Boa
+M 0 2829 10 2871   Tsetse flies
+M 0 2829 10 2873
+M 0 2829 10 2875
+M 0 2829 10 2877
+M 0 2829 10 2879
+O 0 2823 4 2879    Banana
+M 0 2830 3 2890    Crocodiles
+M 0 2830 3 2891
+M 0 2830 3 2892
+M 0 2831 1 2888    Leopard
+M 0 2800 2 2883    The Poacher
+E 1 1470 2 17           shotgun
+G 1 2828 4         Milky Potion
+G 1 2824 1         Lump of Coal
+M 0 2800 2 2883    The Poacher
+E 1 1470 2 17           shotgun
+G 1 2828 4         Milky Potion
+G 1 1473 2
+M 0 2850 1 2899    Albatross
+G 1 2830 10
+E 1 3424 10 17      Tightly rolled scroll
+M 0 2851 6 2896    Aggressive sailors
+M 0 2851 6 2897
+M 0 2851 6 2898
+M 0 2860 6 2808    Great White
+M 0 2860 6 2808    Great White
+M 0 2860 6 2808    Great White
+E 1 2870 1 17
+M 0 2860 6 2808    Great White
+M 0 2860 6 2808    Great White
+M 0 2860 6 2808    Great White
+D 0 2826 2 2         Door to Brig
+D 0 2809 0 2
+M 0 2861 3 2809    Mutineers
+M 0 2861 3 2809
+E 1 6110 4 17        Strength potion
+M 0 2861 3 2809
+S
+#30
+Central Midgaard~
+3099 34 2
+O 0 1000 5 3001    Coke Machine
+O 0 1001 2 3070    Scotch Machine
+D 0 3022 1 1       Uncle Fred's
+D 0 3023 3 1
+D 0 3023 4 1
+D 0 3038 5 1
+D 0 3080 0 2
+D 0 3081 2 2
+D 0 3082 5 2
+D 0 3083 4 2
+M 0 3153 1 3002    Banker
+M 0 3000 1 3033    The Wizard Shop Keeper
+G 1 3056 500
+G 1 3050 500
+G 1 3051 500
+G 1 3052 500
+G 1 3053 500
+M 0 3155 1 3033
+M 0 3003 1 3011       The weaponsmith
+G 1 3020 100
+G 1 3021 100
+G 1 3022 100
+G 1 3023 100
+G 1 3024 100
+E 1 3022 100 16            wields a longsword
+M 0 3154 10 3011
+M 0 3155 12 3011
+E 1 7204 10 17        neon blue
+M 0 3004 1 3020       The armourer
+G 1 3040 100
+G 1 3042 100
+G 1 3044 100
+G 1 3076 100
+G 1 3081 100
+G 1 3071 100
+G 1 3086 100
+G 1 3041 100
+G 1 3043 100
+E 1 3022 100 16       wields a longsword
+M 0 3154 10 3020
+M 0 3155 12 3020
+E 1 7204 10 17        neon blue
+M 0 3002 1 3010     The grocer
+G 1 3030 100
+G 1 3031 100
+G 1 3032 100
+G 1 1309 100
+E 1 3022 100 16       wields a longsword
+M 0 3155 12 3010
+E 1 7204 10 17        neon blue
+M 0 3001 1 3009      The baker
+G 1 3010 500
+G 1 3011 500
+E 1 3022 100 16        wields a longsword
+M 0 3155 12 3009
+E 1 7204 10 17        neon blue
+M 0 3006 1 3049       A Captain (selling boats) at Levee
+G 1 3060 100             Give a raft to the captain
+G 1 3061 100             Give canoe to Captain
+G 1 2821 10
+M 0 3154 10 3049
+M 0 3155 12 3049
+E 1 7204 10 17        neon blue
+M 0 3007 1 3050       Sailor selling stuff in the warehouse
+M 0 3040 1 3007       The bartender
+G 1 3000 100
+G 1 3001 100
+G 1 3003 100
+G 1 3006 100
+G 1 3009 100           capulet of titling
+E 1 3022 100 16        wields a longsword
+M 0 3042 1 3018       The Magic Users Waiter
+G 1 3005 500
+E 1 3022 100 16        wields a longsword
+M 0 3026 1 3022       Chester Wilson
+G 1 1300 3
+O 1 3134 5 3022       Bench
+M 0 1313 1 3001    Sam Hill
+E 1 1390 1 11        Shield
+E 1 1391 1 9         Isotoners
+E 1 1392 2 16        Clubs
+E 1 1392 2 17
+E 1 1571 1 2
+M 0 1308 1 3023    Uncle Fred
+E 1 3105 100 11
+E 1 1393 1 7         Boxer Shorts
+E 1 1361 1 3         Dog Tags
+E 1 1362 1 5         Cashmere Coat
+E 1 1303 1 14        Rolex
+E 1 1363 1 10        Green Sleeves
+E 1 1364 1 2         Stolen Ring
+E 1 1367 1 13        Wide Leather Belt
+E 1 1366 1 8         Tennis Shoes
+E 1 17022 1 16       Navy Sword
+E 1 3090 1 17
+M 0 1309 1 3023    Aunt Kate
+E 1 1472 99 17
+E 1 1324 1 19
+M 0 1315 1 3039
+E 1 1394 1 8
+M 0 1316 1 3039
+E 1 1395 1 8
+M 0 1317 1 3083
+E 1 1396 1 5
+M 0 1318 1 3081
+E 1 3091 1 17
+M 0 1319 1 3081
+E 1 1397 1 0
+E 1 1398 1 16
+M 0 1320 1 3085
+M 0 3170 1 3014    Polythene Pam
+E 1 3103 1 16        maxwell's silver hammer
+E 1 3104 1 5
+E 1 3105 100 11
+M 0 3171 1 3025    Mean Mister Mustard
+E 1 3105 100 11
+E 1 1447 1 16        the Extoller
+M 0 3150 1 3014    Mom
+E 1 3150 1 16
+E 1 3105 100 11
+E 1 1327 2 1
+E 1 1327 2 2
+E 1 1352 1 5         chenille tunic
+E 1 1316 1 6         nice hat
+E 1 1314 1 7
+E 1 1350 1 8         skimmers
+E 1 1319 1 14
+E 1 1315 1 17
+E 1 1313 1 12
+E 1 1329 1 20      MR earrings
+G 1 1312 2         umbrella
+M 0 3151 1 3022        Grandpa
+E 1 1336 1 12           slicker
+E 1 1337 1 7            overalls
+E 1 1338 1 16           sandblaster
+E 1 1343 1 6            hardhat
+E 1 1344 1 3            bow tie
+E 1 1348 1 19           infrared goggles
+E 1 1349 1 20           earmuffs
+M 0 3154 10 3022
+M 0 3046 1 3048       Filthy (bartender) in Grubby Inn
+G 1 3003 100
+G 1 3055 100
+G 1 1347 100
+E 1 3022 100 16            wields a longsword
+M 0 3020 1 3019       Martha
+M 0 3021 1 3028       Matilda
+M 0 3024 1 3017       The Sorcerer Guard
+E 1 3070 10 9
+E 1 3075 10 6
+E 1 3080 10 7
+E 1 3085 10 10
+E 1 3022 100 16            wields a longsword
+M 0 3155 12 3017
+E 1 7204 10 17        neon blue
+M 0 3060 10 3003      CityGuard 1
+E 1 3022 100 16            wields a longsword
+M 0 3060 10 3014      CityGuard 2
+E 1 3022 100 16            wields a longsword
+M 0 3060 10 3017      CityGuard 3
+E 1 3022 100 16            wields a longsword
+M 0 3060 10 3021      CityGuard 4
+E 1 3022 100 16            wields a longsword
+M 0 3060 10 3027      CityGuard 5
+E 1 3022 100 16            wields a longsword
+M 0 3067 10 3041      CityGuard at east gate
+E 1 3022 100 16            wields a longsword
+M 0 3067 10 3040      CityGuard at west gate
+E 1 3022 100 16            wields a longsword
+M 0 3148 3 3014	Unarmed Guard
+M 0 3148 3 3014	Unarmed Guard
+M 0 3148 3 3014	Unarmed Guard
+M 0 3155 12 3014
+E 1 7204 10 17        neon blue
+M 0 3063 6 3026       A Mercenary (at Dark Alley)
+E 1 3021 100 16            wields a shortsword
+M 0 3064 4 3007       A Happy Drunk (at Inn)
+M 0 3065 2 3044       A Beggar in poor alley
+M 0 3065 2 3048       A Beggar in Grubby Inn
+M 0 3062 7 3024      The Cute Little Doggy Fido (at Poor Alley)
+M 0 3062 7 3025      The Cute Little Doggy Fido (at Common Square)
+M 0 3062 7 3016      The Cute Little Doggy Fido (at Main Street)
+M 0 3062 7 3012      The Cute Little Doggy Fido (at Main Street)
+M 0 3062 7 3013      The Cute Little Doggy Fido (at Main Street)
+M 0 3066 1 3026      The Cute Little Odif Yggod (at Dark Alley)
+M 0 3061 2 3006       The Janitor (at Inn Entrance)
+M 0 3090 1 3032       Kitten
+M 0 3091 1 3032       Puppy
+M 0 3092 1 3032       Beagle
+M 0 3093 1 3032       Rottweiler
+M 0 3094 1 3032       Wolf
+M 0 3095 1 3032       Seal
+M 0 1302 1 3032       Rooster
+S
+#31
+Southern Midgaard~
+3199 35 2
+D 0 3106 5 1
+D 0 3110 1 2          Lock door from HQ to road
+D 0 3111 3 2          Lock door from road to HQ
+D 0 3129 2 2          Lock graveyard from outside
+D 0 3400 0 2          Lock graveyard from inside
+O 0 3134 5 3101       Bench 1 at promenade
+O 0 3134 5 3102       Bench 2 at promenade
+O 0 3134 5 3103       Bench 3 at promenade
+M 0 3068 2 3139       Jogger
+E 1 3082 4 7            jogging pants
+M 0 3100 1 3106       Maid in Park Cafe
+G 1 3100 500             A cup of tea
+G 1 3101 500             A cup of coffee
+G 1 3102 500             A cup of water
+M 0 3154 10 3106       The Undercover Cop
+M 0 3120 1 3106       Sexton in Park Cafe
+G 1 3121 2               A rusty old key (to graveyard)
+M 0 3121 1 3114       Swan in Pond
+M 0 3122 1 3114       Duckling in Pond
+M 0 3123 1 3109       Sparrow in Park
+M 0 3123 1 3136       Sparrow
+M 0 3124 2 3113       Duck 1 in Park
+M 0 3124 2 3114       Duck 1 in Park
+M 0 3124 2 3115       Duck 2 in Park
+M 0 6006 8 3115	      Squirrel
+M 0 6006 8 3123	      Squirrel
+E 1 1304 3 17             vanishing blue potion
+M 0 6006 8 3124	      Squirrel
+M 0 6006 8 3124	      Squirrel
+M 0 3140 1 3110       Chief (guard) in H.Q.
+G 1 3122 2               Give chief A wooden key to the desk.
+M 0 3141 4 3110       Mad Guard in H.Q.
+M 1 3141 4 3110       Mad Guard in H.Q.
+M 1 3141 4 3110       Mad Guard in H.Q.
+M 1 3141 4 3110       Mad Guard in H.Q.
+O 0 3130 1 3110       Load the desk
+P 1 3123 1 3130         Put brass key in desk
+O 0 3131 1 3110       Load the safe
+P 1 3132 1 3131       Put money in safe
+M 0 3060 20 3111      CityGuard 1
+E 1 3022 100 16            wields a longsword
+G 1 3120 2                 Has an iron key to H.Q.
+M 0 3060 20 3111      CityGuard 2
+E 1 3022 100 16            wields a longsword
+M 0 3060 20 3111      CityGuard 3
+E 1 3022 100 16            wields a longsword
+M 0 3060 20 3111      CityGuard 4
+E 1 3022 100 16            wields a longsword
+M 0 3142 1 3137       Secretary at town hall
+E 1 3110 3 20              Earrings
+M 0 3143 1 3138       Mayor at town hall
+E 1 3133 1 17              Has the City Key
+M 0 3061 2 3138		Janitor to clean the Mayor's Office
+M 0 3144 1 3120       Town Crier
+M 0 3146 1 3048       Suzy
+E 1 1320 4 19  	       shades
+M 0 3160 1 3048       Dad
+E 1 1371 1 16
+E 1 1372 1 7
+E 1 1373 1 14
+E 1 1374 1 5
+E 1 1375 1 8
+E 1 1376 1 6
+E 1 1377 1 19
+M 0 8000 1 3025       Bag Lady
+E 1 3203 5 17
+O 0 3135 1 3141       Fountain on Penny Lane
+O 0 3136 1 3141       20 coins on Penny Lane
+M 0 3062 7 3141      The Cute Little Doggy Fido
+M 0 3062 7 3141      The Cute Little Doggy Fido
+M 0 3125 1 3109      Snowman
+E 1 3202 5 17
+S
+#32
+River of Midgaard~
+3299 36 2
+M 0 1306 5 3202
+M 0 1306 5 3204
+M 0 1306 5 3206
+M 0 1306 5 3208
+M 0 1306 5 3210
+O 1 17010 1 3201
+M 0 3200 1 3070   Mudhead
+S
+#33
+Training Area~
+3399 10 2
+M 0 3300 1 3303
+E 1 3023 9 16
+G 1 3300 5        pea shooter
+M 0 3301 1 3301
+E 1 3023 9 16
+M 0 3302 1 3302
+E 1 3023 9 16
+M 0 3303 1 3303
+E 1 3023 9 16
+G 1 3301 50       peas
+M 0 3310 1 3300
+M 0 3311 1 3300
+S
+#34
+Graveyard~
+3499 900 2
+M 0 1312 1 3001         Bozo
+E 1 17023 1 5
+M 0 1505 9 1538
+O 0 1598 1 3404
+M 0 1303 3 3405		Ants
+M 0 1303 3 3405		Ants
+M 0 1303 3 3405		Ants
+M 0 1305 1 3405		White Dragon
+E 1 1328 1 16   Claw
+E 1 1302 4 1    Brass Ring
+E 1 1302 4 2    Brass Ring
+E 1 3430 2 5	Golden Armor
+E 1 1334 1 11	Shield
+D 0 3405 5 1
+D 0 14003 4 1
+S
+#40
+Moria level 1-2~
+4099 21 2
+M 0 4000 1 4030     The large snake
+M 0 4001 2 4025     a green snake
+M 0 4001 2 4015     a green snake
+M 0 4002 3 4023     a centipede
+M 0 4002 3 4017     a centipede
+M 0 4002 3 4020     a centipede
+M 0 4003 6 4021     a kobold
+M 0 4003 6 4021     a kobold
+M 0 4003 6 4013     a kobold
+M 0 4003 6 4013     a kobold
+M 0 4003 6 4027     a kobold
+M 0 4003 6 4027     a kobold
+M 0 4004 3 4015     an orc
+M 0 4004 3 4028     an orc
+M 0 4004 3 4028     an orc
+M 0 4005 1 4022     a large orc
+E 1 4000 5 1        ring of weakness on left finger
+M 0 4050 1 4062     a warrior
+G 1 4051 3          give him a helmet of savin' throw
+M 0 4051 4 4070     a warrior
+M 0 4051 4 4050     a warrior
+M 0 4051 4 4073     a warrior
+M 0 4051 4 4055     a warrior
+M 0 4052 3 4056     a hobgoblin
+M 0 4052 3 4065     a hobgoblin
+M 0 4052 3 4059     a hobgoblin
+M 0 4053 2 4058     a snake
+M 0 4053 2 4068     a snake
+M 0 4054 3 4060     a centipede
+M 0 4054 3 4053     a centipede
+M 0 4054 3 4052     a centipede
+M 0 4055 2 4064     a hobgoblin
+G 1 4050 100         give him a purple potion
+M 0 4055 2 4071     a hobgoblin
+G 1 4050 100         give him a purple potion
+M 0 4056 2 4067     an orc
+M 0 4056 2 4057     an orc
+O 0 4052 8 4068     plant a mushroom
+O 0 4052 8 4069     plant a mushroom
+O 0 4052 8 4070     plant a mushroom
+O 0 4052 8 4071     plant a mushroom
+S
+#41
+Moria level 3-4~
+4199 22 2
+M 0 4100 1 4114    The mage
+G 1 4102 2         Scroll of identify.
+M 0 4101 9 4122    The troll
+M 0 4102 5 4111    The snakes
+G 1 4103 10        Slime
+M 0 4102 5 4111    The snakes
+G 1 4104 3         Poisoned slime
+M 0 4102 5 4103
+G 1 4103 10        Slime
+G 1 4104 3         Poisoned slime
+M 0 4103 1 4124    Thief
+E 1 4100 3 16        The blade
+E 1 4105 3 21      Ankle Brace
+E 1 4107 3 12        The cloak
+G 1 4104 10        Slime
+M 0 4105 3 4108    A centipede
+M 0 4106 3 4113    A warrior
+G 1 4101 1         Some gloves
+M 0 4107 5 4119    A kobold
+G 1 4104 10        Slime
+M 0 4108 5 4126    Korc
+E 1 4106 3 7
+S
+#51
+Drow City~
+5199 29 2
+D 0 5148 0 2
+D 0 5160 2 2
+M 0 5100 15 5122           GOBLIN SLAVE
+M 0 5101 10 5118           DROW COMMOMER
+E 1 5100 50 16
+M 0 5101 10 5133
+E 1 5100 50 16
+M 0 5102 4 5104            DROW WARRIOR
+E 1 5101 12 16
+M 0 5102 4 5124
+E 1 5101 12 16
+M 0 5102 4 5108
+E 1 5101 12 16
+M 0 5102 4 5111
+E 1 5101 12 16
+M 0 5103 4 5104            DROW MAGE
+E 1 5102 4 16
+M 0 5103 4 5124
+E 1 5102 4 16
+M 0 5103 4 5108
+E 1 5102 4 16
+M 0 5103 4 5111
+E 1 5102 4 16
+M 0 5104 4 5104            DROW PRIESTESS
+E 1 5103 4 16
+M 0 5104 4 5124
+E 1 5103 4 16
+M 0 5104 4 5108
+E 1 5103 4 16
+M 0 5104 4 5111
+E 1 5103 4 16
+M 0 5105 3 5118            DROW MASTER
+E 1 5105 3 16
+E 1 5110 5 17
+M 0 5105 3 5120
+E 1 5104 2 16
+E 1 5110 5 17
+M 0 5105 3 5116
+E 1 5104 2 16
+E 1 5110 5 17
+M 0 5106 2 5150            DROW WEAPONSMASTER
+E 1 5105 3 16
+E 1 5109 1 9
+M 0 5106 2 5101            (another) DROW WEAPONSMASTER
+E 1 5105 3 16
+M 0 5107 3 5125            4TH MATRON MOTHER
+E 1 5104 4 16
+G 1 5114 3
+M 0 5107 3 5105            3RD MATRON MOTHER
+E 1 5104 4 16
+E 1 5111 2 6
+M 0 5107 3 5109            2ND MATRON MOTHER
+E 1 5104 4 16
+E 1 5108 2 10
+M 0 5108 1 5113            1ST MATRON MOTHER
+E 1 5104 4 16
+M 0 5109 1 5148            YOCHLOL
+E 1 5113 -33 16            Spider Dagger (Randomly loaded)
+E 1 5148 1 17
+M 0 5110 1 5160            LOLTH
+E 1 5115 1 1
+E 1 5116 1 11 
+E 1 17012 1 20
+S
+#52
+The City of Thalos~
+5299 31 2
+M 0 5200 1 5250             Beholder
+E 1 5208 3 11                 (iron shield)
+E 1 5223 10 3                  (green cloak)
+M 0 5201 50 5234             Lamia (all lamias have daggers)
+E 1 3020 15 16
+M 0 5201 50 5235             Lamia
+E 1 3020 15 16
+M 0 5201 50 5232             Lamia
+E 1 3020 15 16
+M 0 5201 50 5229             Lamia
+E 1 3020 15 16
+M 0 5201 50 5236             Lamia
+E 1 3020 15 16
+M 0 5201 50 5237             Lamia
+E 1 3020 15 16
+M 0 5201 50 5240             Lamia
+E 1 3020 15 16
+M 0 5201 50 5242             Lamia
+E 1 3020 15 16
+M 0 5201 50 5218             Lamia
+E 1 3020 15 16
+M 0 5201 50 5216             Lamia
+E 1 3020 15 16
+M 0 5201 50 5219             Lamia
+E 1 3020 15 16
+M 0 5201 50 5220             Lamia
+E 1 3020 15 16
+M 0 5201 50 5221             Lamia
+E 1 3020 15 16
+M 0 5201 50 5225             Lamia
+E 1 3020 15 16
+M 0 5201 50 5226             Lamia
+E 1 3020 15 16
+M 0 5201 50 5224             Lamia
+E 1 3020 15 16
+M 0 5201 50 5203             Lamia
+E 1 3020 15 16
+M 0 5201 50 5204             Lamia
+E 1 3020 15 16
+M 0 5201 50 5205             Lamia
+E 1 3020 15 16
+M 0 5201 50 5206             Lamia
+E 1 3020 15 16
+M 0 5201 50 5208             Lamia
+E 1 3020 15 16
+M 0 5201 50 5209             Lamia (lots of 'em, eh?)
+E 1 3020 15 16
+M 0 5202 1 5229             Mimic chest
+E 1 5214 1 17                 (ball o' light)
+M 0 5203 1 5226             Mimic boulder
+G 1 5215 1                    (tattered scroll)
+M 0 5204 1 5219             Mimic floor
+G 1 5218 1                    (talisman)
+M 0 5205 1 5238             Mimic potery
+E 1 5214 1 17                 (ball o' light)
+M 0 5206 1 5236             Mimic planks
+E 1 5222 5 12                 (black robe)
+M 0 5207 4 5232             lizard
+M 0 5207 4 5217             lizard
+M 0 5207 4 5227             lizard
+M 0 5207 4 5244             lizard
+M 0 5208 3 5247             golem SW
+E 1 5224 1 17                 (ebony seal)
+E 1 5200 5 5                  (chainmail vest)
+M 0 5208 3 5246             golem NW
+E 1 5226 1 17                 (ivory seal)
+M 0 5208 3 5248             golem NE
+E 1 5221 5 16                 (2-handed sword)
+O 0 5225 1 5231             curved desk
+P 1 5215 1 5225                (scroll of enchantment)
+P 1 5216 2 5225                (scroll of detection)
+O 0 5227 1 5233             glass cabinet
+P 1 5201 1 5227               (iron helm)
+P 1 5202 1 5227               (iron gauntlets)
+P 1 5203 1 5227               (iron sleeves)
+P 1 5204 1 5227               (iron boots)
+P 1 5205 1 5227               (iron leggings)
+P 1 5206 1 5227               (iron girth)
+O 0 5228 10 5242            rotten arm
+O 0 5219 5 5217             venison
+O 0 5220 1 5234             cracked fountain
+O 0 5207 5 5229             battered armor
+O 0 5210 2 5238             black potion
+O 0 5211 2 5238             orange potion
+O 0 5217 2 5230             silver flute
+O 0 5250 2 5230             mandolin
+O 0 5251 2 5230             harp
+O 0 5230 1 5202             pale blue (all stones)
+O 0 5231 1 5205             scar. and blue
+O 0 5232 1 5208             inc. blue
+O 0 5233 1 5211             deep red
+O 0 5234 1 5214             pink
+O 0 5235 1 5217             white
+O 0 5236 1 5220             pale lavander
+O 0 5237 1 5224             green and lav.
+O 0 5238 1 5227             dusty rose
+O 0 5239 1 5230             dull grey
+O 0 5240 1 5234             viv. purple
+O 0 5241 1 5238             pink and green
+O 0 5242 1 5241             pale green
+O 0 5243 1 5246             clear
+O 0 5244 1 5250             irrad.
+S
+#60
+HAON-DOR-LIGHT~
+6099 25 2
+M 0 6000 1 6009  John the Lumberjack
+E 1 6000 10 16     Axe Equipped (WIELD)
+E 1 6001 10 5      shirt Equipped (BODY)
+E 1 6002 10 8      boots Equipped (FEET)
+D 0 6009 0 1     Cabin door must be closed
+M 0 6007 1 6125	Jim the Lumberjack
+E 1 1306 4 16		wields a scythe
+E 1 5999 4 8		good boots
+M 0 6008 3 6013  Mouse
+M 0 6001 5 6012  Rabbit 1
+M 0 6001 5 6015         2
+M 0 6001 5 6017         3
+M 0 6001 5 6019         4
+M 0 6002 1 6022  Brown bear
+M 0 6004 1 6023  Fallow deer
+M 0 6005 3 6014  Brown fox
+M 0 6005 3 6015  Brown fox
+M 0 6005 3 6016  Brown fox
+M 0 6006 4 6023  Squirrel
+M 0 6006 4 6017
+M 0 6006 4 6016
+M 0 6006 4 6015
+M 0 6006 4 6014
+O 0 6003 1 6010  John's fireplace
+O 0 6004 1 6010  John's lantern
+O 0 6005 1 6010  John's wooden chest
+P 1 6007 1 6005    Coins (In chest)
+P 1 6006 1 6003  John's brass key (In fireplace)
+O 0 6013 3 6010  Water barrel
+O 0 6010 2 6023  Blackberries
+O 0 6011 3 6006  Mushroom 1
+O 0 6011 3 6013           2
+O 0 6011 3 6016           3
+O 0 6012 1 6000  The news sign
+S
+#61
+HAON-DOR-DARK~
+6999 26 2
+M 0 6100 2 6116  Vicious warg
+M 0 6100 2 6116  Vicious warg
+M 0 6101 2 6127  Ferocious warg
+M 0 6101 2 6127  Ferocious warg
+M 0 6102 4 6108  Grey wolf 1
+M 0 6102 4 6108  Grey wolf 1
+M 0 6102 4 6104            2
+M 0 6102 4 6104            2
+M 0 6103 4 6112  Black wolf 1
+M 0 6103 4 6112  Black wolf 1
+M 0 6103 4 6118             2
+M 0 6103 4 6118             2
+M 0 6110 4 6120  Tree 1.1
+M 0 3149 4 6120  Forest Ranger
+M 0 6110 4 6123       1.2
+M 0 3149 4 6123
+M 0 6111 4 6109       2.1
+M 0 3149 4 6109
+M 0 6111 4 6105       2.2
+M 0 3149 4 6105
+M 0 6910 1 6121  Isha the Dark Elf
+E 1 6910 1 5     Dragon scale shirt   Equipped (BODY)
+E 1 6911 1 7     Dragon scale skirt Equipped (LEGS)
+E 1 6912 1 3       Black cloak  Equipped (NECK_1)
+E 1 6913 1 13      Silver belt  Equipped (WAISTE)
+E 1 6914 1 16      Long, slender sword   Equipped (WIELD)
+M 0 6112 1 6143  Green dragon
+E 1 6111 2 11    Large Round Shield
+E 1 7215 2 17      Light sabre
+G 1 6112 1       Iron crown (Carried)
+M 0 6113 3 6133  Poisonous spider 1
+M 0 6113 3 6133                   2
+M 0 6113 3 6133                   3
+M 0 6114 1 6134  Queen Spider
+G 1 6108 10        10,000 gold     Carried
+G 1 6109 20        give her a blue potion
+G 1 6113 1         Iron sceptre       Carried
+M 0 6115 1 6100  Shargugh the Forest Brownie
+E 1 6114 1 1       Iron ring (Equipped (FINGER_R))
+O 0 6102 1 6103  Hollow tree
+O 0 6103 1 6113  Branch, light
+O 0 6104 1 6125  Branch, weapon
+O 0 6105 1 6105  Branch, unusable
+O 0 6106 4 6104  Toadstool 1.1
+O 0 6106 4 6111            1.2
+O 0 6106 4 6122            1.3
+O 0 6107 4 6119            2.1 (poisonous)
+M 0 6999 1 6999  Death
+E 1 6999 1 16      Scythe Equipped (WIELD)
+S
+#70
+Sewer~
+7099 41 2
+M 0 7001 9 7041            The mean bat
+M 0 7001 9 7025            The mean bat
+M 0 7001 9 7004            The mean bat
+M 0 7001 9 7004            The mean bat
+M 0 7002 3 7049             The Sewer Rat
+M 0 7002 3 7031             The Sewer Rat
+M 0 7003 8 7039           The Small Hairy Spider
+M 0 7003 8 7039           The Small Hairy Spider
+M 0 7003 8 7039           The Small Hairy Spider
+M 0 7003 8 7037           The Small Hairy Spider
+M 0 7003 8 7037           The Small Hairy Spider
+M 0 7003 8 7050           The Small Hairy Spider
+M 0 7014 4 7038
+M 0 7014 4 7045
+M 0 7015 2 7050
+E 1 7101 3 16
+M 0 7016 2 7061
+E 1 7102 3 19
+M 0 7017 2 7062
+E 1 7103 3 9
+M 0 7018 2 7064
+S
+#71
+Second Sewer~
+7199 42 2
+M 0 7004 3 7102            The Earth Beetle
+M 0 7005 7 7112            The Giant Maggot
+M 0 7005 7 7112            The Giant Maggot
+M 0 7005 7 7122            The Giant Maggot
+M 0 7002 7 7104             The Sewer Rat
+M 0 7000 6 7103            The Horrifying Mudmonster
+M 0 7000 6 7103            The Horrifying Mudmonster
+M 0 7006 7 7113            The slithering snake
+M 0 7006 7 7122            The slithering snake
+M 0 7006 7 7122            The slithering snake
+D 1 7116 5 1
+D 1 7280 4 1
+S
+#72
+SEWERMAZE~
+7399 43 2
+D 0 7201 3 2     Lock stone door
+D 0 7201 2 1     Close wood door
+D 0 7202 0 1     Close wood door
+D 0 7208 0 1     Close door
+M 0 7200 1 7201  Load master mindflayer
+E 1 7200 4 16      Equip master with devil rod
+E 1 7203 4 3     Equip master with cloak
+G 1 7205 7200    Give key to master
+O 1 7204 10 7200  Potion into treasury
+O 1 7210 1 7200  Treasure into treasury
+M 0 7201 1 7203  Load senior mindflayer
+E 1 7201 4 16 Equip with large mace
+M 0 7202 2 7205  Junior mindflayer
+E 1 7202 8 16 Equip with large mace
+M 0 7202 2 7207  Load junior mindflayer
+E 1 7202 8 16 Equip with small mace
+O 0 7206 4 7206  Load Skull
+O 0 7208 20 7211 Load light stick
+O 0 7208 20 7218        "
+O 0 7208 20 7230	"
+O 0 7209 4 7214  Load MUD-boots
+M 0 7203 10 7214 Load wererat
+E 1 7211 16 16 Equip with short sword
+M 0 7203 10 7213 Load wererat
+E 1 7211 16 16 Equip with short sword
+M 0 7203 10 7215 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7217 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7219 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7221 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7223 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7225 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7233 Load wererat
+E 1 7211 16 16 Equip
+M 0 7203 10 7233 Load wererat
+E 1 7211 16 16 Equip
+M 0 7204 1 7234  Load gigantic rat
+D 0 7280 4 1               Close Secret entrance
+D 0 7116 5 1                ------- || -------
+M 0 7002 5 7285             The Sewer Rat
+M 0 7002 5 7285             The Sewer Rat
+M 0 7000 8 7286            The Horrifying Mudmonster
+M 0 7000 8 7286            The Horrifying Mudmonster
+M 0 7000 8 7281            The Horrifying Mudmonster
+M 0 7000 8 7281            The Horrifying Mudmonster
+M 0 7000 8 7280            The Horrifying Mudmonster
+D 1 7116 5 1
+D 1 7280 4 1
+S
+#74
+The tunnels~
+7499 44 2
+D 0 7415 0 1
+D 0 7416 2 1
+D 0 7418 1 1
+D 0 7421 3 1
+D 0 7424 1 1
+D 0 7425 3 1
+D 0 7405 2 1
+D 0 7406 0 1
+D 0 7404 2 1
+D 0 7405 0 1
+M 0 7039 8 7428         Pink baby dragons
+M 0 7039 8 7428
+M 0 7039 8 7428
+M 0 7039 8 7428
+M 0 7039 8 7428
+M 0 7039 8 7428
+M 0 7040 1 7428         Load The Red Dragon
+E 1 1305 2 16           Silver Epee
+E 1 7190 3 2            Equip Red with ring
+M 0 7041 2 7444          Load The Sea Hag
+M 0 7042 2 7435          Load The Good Guardian Naga
+M 0 7043 3 7439          Load The Basilisk
+M 0 7044 6 7406          Load The Lemure Blob
+M 0 7045 1 7419          Load Jones
+E 1 7192 4 8               give Jones his boots
+M 0 7046 1 7424          Load Herald
+M 0 7010 2 7429          Load Chr "something"
+M 0 7011 2 7412		 Load the Morkoth
+S
+#75
+Turtles Lair~
+7519 45 1
+M 0 7501 1 7506	Leonardo
+E 1 7501 1 16		katana
+M 0 7502 1 7513	Raphael
+E 1 7502 1 16		sai
+M 0 7503 1 7515	Donatello
+E 1 7503 1 16		bo staff
+M 0 7504 1 7517	Michelangelo
+E 1 7504 1 16		nunchakus
+M 0 7505 1 7511	Splinter
+E 1 7506 1 12		ninja robe
+M 0 7506 1 7509	April O`Neill
+G 1 7505 1 		turtle com
+M 0 7507 1 7519	Shredder
+E 1 7507 1 9		gauntlets
+E 1 7508 1 10		arms
+S
+#76
+Aralia~
+7699 46 2
+M 0 7601 1 7649
+E 1 7600 2 11
+E 1 7608 1 17 
+M 0 7602 1 7693
+E 1 7606 1 1
+D 0 7641 5 1
+M 0 7603 25 7676
+E 1 7607 25 16
+M 0 7603 25 7693
+E 1 7607 25 16
+M 0 7603 25 7678
+E 1 7607 25 16
+M 0 7603 25 7684
+E 1 7607 25 16
+M 0 7603 25 7690
+E 1 7607 25 16
+M 0 7603 25 7673
+E 1 7607 25 16
+M 0 7603 25 7671
+E 1 7607 25 16
+M 0 7603 25 7669
+E 1 7607 25 16
+M 0 7603 25 7614
+E 1 7607 25 16
+M 0 7603 25 7614
+E 1 7607 25 16
+M 0 7603 25 7642
+E 1 7607 25 16
+M 0 7603 25 7642
+E 1 7607 25 16
+M 0 7603 25 7642
+E 1 7607 25 16
+M 0 7603 25 7645
+E 1 7607 25 16
+M 0 7603 25 7652
+E 1 7607 25 16
+M 0 7603 25 7658
+E 1 7607 25 16
+M 0 7603 25 7662
+E 1 7607 25 16
+M 0 7603 25 7662
+E 1 7607 25 16
+M 0 7603 25 7647
+E 1 7607 25 16
+M 0 7604 1 7664
+E 1 7604 2 3
+E 1 7604 2 4
+E 1 7603 1 16
+E 1 7602 1 12
+M 0 7605 2 7681
+E 1 7601 2 13
+E 1 7607 25 16
+M 0 7605 2 7671
+E 1 7601 2 13
+E 1 7607 25 16
+M 0 7606 16 7679
+M 0 7606 16 7679
+M 0 7606 16 7677
+M 0 7606 16 7682
+M 0 7606 16 7683
+M 0 7606 16 7688
+M 0 7606 16 7692
+M 0 7606 16 7691
+M 0 7607 16 7685
+M 0 7607 16 7686
+M 0 7607 16 7689
+M 0 7607 16 7682
+M 0 7607 16 7688
+M 0 7607 16 7679
+M 0 7607 16 7685
+M 0 7607 16 7689
+M 0 7607 16 7693
+M 0 7608 30 7602
+M 0 7608 30 7607
+M 0 7608 30 7612
+M 0 7608 30 7617
+M 0 7608 30 7623
+M 0 7608 30 7622
+M 0 7608 30 7618
+M 0 7608 30 7619
+M 0 7608 30 7610
+M 0 7608 30 7621
+M 0 7609 1 7621
+E 1 7605 1 16
+S
+#79
+Redferne's~
+7999 180 2
+D 0 7900 0 2
+D 0 7901 2 2
+D 0 7902 1 1
+D 0 7901 3 1
+D 0 7901 1 1
+D 0 7910 3 1
+D 0 7910 1 2
+D 0 7903 3 2
+D 0 7904 1 1
+D 0 7913 3 1
+D 0 7911 2 1
+D 0 7912 0 1
+D 0 7904 3 1
+D 0 7905 1 1
+D 0 7906 1 1
+D 0 7908 3 1
+D 0 7906 0 1
+D 0 7907 2 1
+M 0 7009 1 7900         The Grand Knight of Paladins
+G 1 7903 1               Give key to the knight
+G 1 7900 1               Give key to the knight
+G 1 7901 1               Give key to the knight
+G 1 7911 1               Give key to the knight
+E 1 7212 3 16          Equip sword on Knight
+E 1 7217 1 5           Equip Breast-Plate on Knight
+E 1 7218 1 7           Equip Leg-plates on Knight
+E 1 7219 1 9           Equip Gloves on Knight
+E 1 7220 1 6           Equip Helmet on Knight
+E 1 7221 1 11          Equip Shield on Knight
+E 1 7223 1 10          Equip arm guards on Knight
+E 1 7222 1 8           Equip Heavy Boots on Knight
+E 1 7215 1 17
+O 0 7090 40 7907           The Waybread
+O 0 7090 40 7907           The Waybread
+O 0 7090 40 7907           The Waybread
+O 0 7090 40 7907           The Waybread
+O 0 7090 40 7907           The Waybread
+O 0 6013 10 7908           The barrel with water
+O 0 6013 10 7908           The barrel with water
+O 0 6013 10 7908           The barrel with water
+O 0 6013 10 7908           The barrel with water
+O 0 6013 10 7908           The barrel with water
+O 0 6013 10 7908           The barrel with water
+O 0 7910 1 7910           Load chest
+P 1 7191 1 7910           The (Invisible) Golden Ring
+P 1 7207 1 7910           Muddy gauntlets
+P 1 7208 6 7910           Light stick
+O 0 7212 3 7903         Bastard sword
+O 0 6108 2 7903         10,000 gold
+O 0 7216 2 7903         Two-handed sword
+M 1 7013 9 7904		Ghost
+E 1 7225 9 17		 pill
+M 1 7013 9 7904
+E 1 7225 9 17
+M 1 7013 9 7904
+E 1 7225 9 17
+M 1 7013 9 7906
+E 1 7225 9 17
+M 1 7013 9 7906
+E 1 7225 9 17
+M 1 7013 9 7906
+E 1 7225 9 17
+M 1 7013 9 7908
+E 1 7225 9 17
+M 1 7013 9 7908
+E 1 7225 9 17
+M 1 7013 9 7908
+E 1 7225 9 17
+S
+#81
+Monk Temple~
+8199 47 2
+M 0 8100 10 8107        CHILD
+G 1 8114 10                Eye Potion
+M 0 8100 10 8108
+G 1 8114 10
+M 0 8100 10 8110
+G 1 8114 10
+M 0 8100 10 8111
+G 1 8114 10
+M 0 8100 10 8120
+G 1 8114 10
+M 0 8100 10 8131
+G 1 8114 10
+M 0 8100 10 8133
+G 1 8114 10
+M 0 8100 10 8143
+G 1 8114 10
+M 0 8100 10 8147
+G 1 8114 10
+M 0 8101 15 8123         MONK
+E 1 8119 5 17              Grab Large Yellow Bag
+M 0 8101 15 8124
+M 0 8101 15 8125
+E 1 8119 5 17
+M 0 8101 15 8130
+E 1 8119 5 17
+M 0 8101 15 8131
+M 0 8101 15 8132
+E 1 8119 5 17
+M 0 8101 15 8137
+M 0 8101 15 8138
+E 1 8119 5 17
+M 0 8101 15 8139
+M 0 8102 15 8123         JUNIOR MONK
+E 1 8100 15 16              Long Pole
+M 0 8102 15 8124
+E 1 8100 15 16
+M 0 8102 15 8125
+E 1 8100 15 16
+M 0 8102 15 8130
+E 1 8100 15 16
+M 0 8102 15 8131
+E 1 8100 15 16
+M 0 8102 15 8132
+E 1 8100 15 16
+M 0 8102 15 8137
+E 1 8100 15 16
+M 0 8102 15 8138
+E 1 8100 15 16
+M 0 8102 15 8139
+E 1 8100 15 16
+M 0 8103 6 8151         SENIOR MONK
+E 1 8101 6 16               Silver Sword
+M 0 8103 6 8152
+E 1 8101 6 16
+M 0 8103 6 8153
+E 1 8101 6 16
+M 0 8103 6 8155
+E 1 8101 6 16
+M 0 8103 6 8156
+E 1 8101 6 16
+M 0 8103 6 8157
+E 1 8101 6 16
+M 0 8113 1 8106         SANPOH (baker)
+M 0 8114 1 8142         YONGCHUN (mage)
+E 1 8120 1 16              Magic Staff
+M 0 8115 1 8119         SHENGLONG (weaponmaster)
+E 1 8115 1 8               Monk's Boots
+M 0 8116 1 8120         TEELIK (armourer)
+E 1 8105 1 14              Shinning Bracelet
+M 0 8117 1 8174         WONGPAK (teahouse owner)
+M 0 8104 1 8121         COUNSELOR
+E 1 8102 1 6               Counselor Hat
+M 0 8105 1 8118         PHYSICIAN
+E 1 8103 1 1                Heal ring
+G 1 8113 15                 Rainbow Potion
+M 0 8106 1 8113         BOOKKEEPER
+E 1 8104 1 16              Platinum Sword
+M 0 8107 1 8154         OLD KUNG TAO
+E 1 8108 1 16              Snake Sword
+M 0 8108 10 8119         GUARD
+M 0 8108 10 8120
+M 0 8108 10 8106
+M 0 8108 10 8142
+M 0 8108 10 8109
+M 0 8108 10 8174
+M 0 8108 10 8118
+M 0 8108 10 8121
+M 0 8108 10 8161
+M 0 8108 10 8173
+M 0 8109 1 8173        JET LEE THE GUARDIAN
+E 1 8111 1 13               Lotus Belt
+E 1 8112 1 11               Lotus Shield
+G 1 8113 15                 Rainbow Potion
+M 0 8110 1 8161        SHANG TUNG THE PRAYER
+E 1 8106 2 17               Holy Book
+G 1 8107 2                  Holy Bead
+M 0 8118 1 8138        COORDINATOR
+E 1 8121 1 9                Monk's Gloves
+M 0 8119 1 8150        GOLDEN DRAGON
+E 1 8110 1 3                Ancient Pendant
+M 0 8120 1 8163        TREASURER         
+E 1 8123 1 17               Bless Stone
+M 0 8111 5 8163        THE BODYGUARD
+G 1 8113 15                 Rainbow Potion
+M 0 8111 5 8163        THE BODYGUARD
+G 1 8113 15
+M 0 8111 5 8163        THE BODYGUARD
+G 1 8113 15
+M 0 8111 5 8169        THE BODYGUARD
+G 1 8113 15
+M 0 8111 5 8169        THE BODYGUARD
+G 1 8113 15
+M 0 8112 1 8170        GRANDMASTER
+E 1 8109 1 5                Golden Robe
+E 1 8118 1 17               Mirror of Meditation
+E 1 8122 1 8                Straw Sandals
+E 1 8116 1 10               Monk's Sleeve
+G 1 8113 15                 Rainbow Potion
+G 1 8114 10                 Eye Potion
+D 0 8104 1 1
+D 0 8109 3 1
+D 0 8145 4 1
+D 0 8152 5 1
+D 0 8159 4 1
+D 0 8162 5 1
+D 0 8169 0 1
+D 0 8170 2 1
+S
+#82
+Ninja Area~
+8299 48 2
+M 0 8200 10 8220    White Ninja
+E 1 8200 10 16          Wooden Katana
+M 0 8200 10 8222
+M 0 8200 10 8223
+M 0 8200 10 8215
+M 0 8200 10 8216
+E 1 8200 10 16
+M 0 8200 10 8218
+E 1 8200 10 16
+M 0 8200 10 8232
+M 0 8200 10 8239
+M 0 8213 10 8220    Purple Ninja
+E 1 8200 10 16          Wooden Katana
+M 0 8213 10 8222
+E 1 8200 10 16
+M 0 8213 10 8223
+E 1 8200 10 16
+M 0 8213 10 8215
+E 1 8200 10 16
+M 0 8213 10 8216
+M 0 8213 10 8218
+M 0 8213 10 8232
+M 0 8213 10 8239
+M 0 8201 8 8220     Red Ninja
+E 1 8201 5 16           Black Katana
+M 0 8201 8 8213
+E 1 8201 5 16
+M 0 8201 8 8212
+M 0 8201 8 8207
+M 0 8201 8 8209
+M 0 8201 8 8227
+M 0 8201 8 8238
+M 0 8201 8 8236
+M 0 8214 8 8220     Yellow Ninja
+E 1 8201 5 16           Black Katana
+M 0 8214 8 8213
+M 0 8214 8 8212
+M 0 8214 8 8207
+E 1 8201 5 16
+M 0 8214 8 8209
+E 1 8201 5 16
+M 0 8214 8 8227
+M 0 8214 8 8238
+M 0 8214 8 8236
+M 0 8202 7 8236     Black Ninja
+E 1 8202 5 16           Blackened Chain
+M 0 8202 7 8237
+E 1 8202 5 16
+M 0 8202 7 8239
+M 0 8202 7 8234
+M 0 8202 7 8244
+M 0 8202 7 8235
+M 0 8202 7 8250
+M 0 8215 7 8236     Blue Ninja
+E 1 8202 5 16           Blackened Chain
+M 0 8215 7 8237
+M 0 8215 7 8239
+M 0 8215 7 8234
+E 1 8202 5 16
+M 0 8215 7 8244
+E 1 8202 5 16
+M 0 8215 7 8235
+M 0 8215 7 8250
+M 0 8216 1 8234     Kamikazi
+E 1 8227 1 19           Headband
+M 0 8203 1 8229     Baker
+E 1 8203 4 16           Iron Katana
+M 0 8204 1 8225     Wizard
+E 1 8204 1 16           Wooden Nunchaku
+M 0 8205 1 8226     Weaponsmith
+E 1 8203 4 16           Iron Katana
+M 0 8206 1 8243     Armourer
+E 1 8203 4 16           Iron Katana
+M 0 8207 1 8247     Creator
+E 1 8205 1 16           Short Katana
+E 1 8223 1 17           Jade
+G 1 8219 1              Sake Potion
+M 0 8208 1 8224     White Master
+E 1 8208 1 16           Short Blacken Katana
+E 1 8226 1 19           White Ninja Mask
+M 0 8209 1 8211     Red Master
+E 1 8210 1 14           Wrist Band
+E 1 8211 3 5            Ninja Suit
+M 0 8210 1 8253     Black Master
+E 1 8211 3 5            Ninja Suit
+E 1 8221 1 1            Iga Ring
+E 1 8225 1 19           Black Ninja Mask
+M 0 8217 1 8244     Purple Master
+E 1 8212 1 13           Ninja Belt
+E 1 8211 3 5            Ninja Suit
+M 0 8218 1 8268     Yellow Master
+E 1 8214 1 4            Jade Medallion
+E 1 8207 1 16           Metal Nunchaku
+M 0 8219 1 8235     Blue Master
+E 1 8213 1 8            Ninja Boots
+E 1 8206 1 16           Masamune
+M 0 8211 1 8241     Great Ninja Master
+E 1 8209 1 16           Musamune
+E 1 8215 1 5            Musashi Suit
+E 1 8216 1 7            Suruga Pants
+E 1 8224 1 17           Wooden key
+M 0 8212 1 8242     Ninja Treasurer
+E 1 8217 1 14           Golden Wrist Band
+E 1 8218 1 17           Suriken
+E 1 8222 1 1            Koga Ring
+G 1 8220 1              Spring Potion
+D 0 8205 0 1        Close the Torri from outside    
+D 0 8219 2 1        Close the Torri from inside
+D 0 8241 5 2        Close and Lock from outside
+D 0 8242 4 2        Close and Lock from inside
+S
+#83
+Mines~
+8399 49 2
+M 0 8307 7 8309              Spirit
+M 0 8307 7 8313
+M 0 8307 7 8377
+M 0 8307 7 8325
+M 0 8307 7 8330
+M 0 8307 7 8349
+M 0 8307 7 8363
+M 0 8301 15 8303              MoBat
+E 1 8311 15 16                   Bat Claw
+M 0 8301 15 8304
+E 1 8311 15 16
+M 0 8301 15 8306
+E 1 8311 15 16
+M 0 8301 15 8307
+E 1 8311 15 16
+M 0 8301 15 8308
+E 1 8311 15 16
+M 0 8301 15 8310
+E 1 8311 15 16
+M 0 8301 15 8311
+E 1 8311 15 16
+M 0 8301 15 8312
+E 1 8311 15 16
+M 0 8301 15 8314
+E 1 8311 15 16
+M 0 8301 15 8317
+E 1 8311 15 16
+M 0 8301 15 8374
+E 1 8311 15 16
+M 0 8301 15 8376
+E 1 8311 15 16
+M 0 8301 15 8378
+E 1 8311 15 16
+M 0 8301 15 8308
+E 1 8311 15 16
+M 0 8301 15 8307
+E 1 8311 15 16
+M 0 8302 15 8303              Gargoyles
+E 1 8310 15 16                  Sting
+M 0 8302 15 8304
+E 1 8310 15 16
+M 0 8302 15 8306
+E 1 8310 15 16
+M 0 8302 15 8307
+E 1 8310 15 16
+M 0 8302 15 8308
+E 1 8310 15 16
+M 0 8302 15 8310
+E 1 8310 15 16
+M 0 8302 15 8311
+E 1 8310 15 16
+M 0 8302 15 8312
+E 1 8310 15 16
+M 0 8302 15 8314
+E 1 8310 15 16
+M 0 8302 15 8317
+E 1 8310 15 16
+M 0 8302 15 8321
+E 1 8310 15 16
+M 0 8302 15 8318
+E 1 8310 15 16
+M 0 8302 15 8320
+E 1 8310 15 16
+M 0 8302 15 8314
+E 1 8310 15 16
+M 0 8302 15 8376
+E 1 8310 15 16
+M 0 8308 7 8325              Troll
+E 1 8313 4 16                Scimitar
+M 0 8308 7 8323
+E 1 8313 4 16
+M 0 8308 7 8373
+E 1 8313 4 16
+M 0 8308 7 8372
+M 0 8308 7 8349
+E 1 8313 4 16
+M 0 8308 7 8354
+M 0 8308 7 8358
+M 0 8309 8 8328              Wyvern
+M 0 8309 8 8334
+M 0 8309 8 8356
+M 0 8309 8 8350
+M 0 8309 8 8358
+M 0 8309 8 8323
+M 0 8309 8 8370
+M 0 8309 8 8331
+M 0 8310 7 8332              Cockatrice
+E 1 8314 4 12                Spiked Wing
+M 0 8310 7 8329
+E 1 8314 4 12
+M 0 8310 7 8353
+M 0 8310 7 8354
+E 1 8314 4 12
+M 0 8310 7 8326
+M 0 8310 7 8324
+E 1 8314 4 12
+M 0 8310 7 8330
+M 0 8310 7 8369
+M 0 8311 8 8332              Hippogriff
+M 0 8311 8 8329
+M 0 8311 8 8353
+M 0 8311 8 8354
+M 0 8311 8 8326
+M 0 8311 8 8324
+M 0 8311 8 8330
+M 0 8311 8 8369
+M 0 8312 7 8362             Margoyles
+E 1 8315 4 14               Brown band 
+M 0 8312 7 8346
+M 0 8312 7 8347
+E 1 8315 4 14
+M 0 8312 7 8342
+M 0 8312 7 8360
+E 1 8315 4 14
+M 0 8312 7 8337
+M 0 8312 7 8368
+E 1 8315 4 14
+M 0 8313 6 8362             Basilisk
+E 1 8316 6 11               Silver shield
+M 0 8313 6 8346
+E 1 8316 6 11
+M 0 8313 6 8347
+E 1 8316 6 11
+M 0 8313 6 8342
+E 1 8316 6 11
+M 0 8313 6 8360
+E 1 8316 6 11
+M 0 8313 6 8337
+E 1 8316 6 11
+M 0 8314 5 8362             Remorhaz
+M 0 8314 5 8346
+M 0 8314 5 8347
+M 0 8314 5 8342
+M 0 8314 5 8360
+M 0 8314 5 8337
+M 0 8314 5 8368
+M 0 8315 1 8351           Muddy dragon
+E 1 8312 1 12                   Muddy cape
+M 0 8303 1 8302              Giant Scorpion
+E 1 8301 1 5                    Scorpion Shell
+E 1 8306 1 11                   Scorpion Scale Sheild
+M 0 8317 3 8302           Poisonous Frog
+M 0 8317 3 8302
+M 0 8317 3 8302
+M 0 8304 1 8338              Headless Ghost
+E 1 8307 1 0                    Spirit Ball
+E 1 8302 1 12                   Violet Cloak
+M 0 8316 2 8338            Python Snake
+E 1 8321 2 17                   Skin Pouch
+E 1 8324 2 6                    Snake Cap
+E 1 8323 2 13                   White Staff
+M 0 8316 2 8338
+E 1 8321 2 17
+E 1 8324 2 6
+E 1 8322 2 13
+M 0 8305 1 8341              Skeleton Ghost
+E 1 8303 1 1                    Ring of Protection
+E 1 8308 1 3                    Skull Necklace
+E 1 8318 1 19                   Raybon Sunglasses
+M 0 8318 3 8341            Anaconda Snake
+E 1 8319 3 10                   Snake Skin Sleeves
+E 1 8323 3 9                      "    "   Gloves
+E 1 8320 3 8                      "    "   Leggings
+M 0 8318 3 8341
+E 1 8319 3 10
+E 1 8323 3 9
+E 1 8320 3 8
+M 0 8306 1 8339              Daemon
+E 1 8304 1 7                    Power Cuisse
+E 1 8305 1 6                    Magic Helm
+E 1 8309 1 8                    Daemon's Boot
+E 1 8317 1 19                   Daemon's Mask
+M 0 8318 3 8341             Anaconda Snake
+E 1 8319 3 10
+E 1 8323 3 9
+E 1 8320 3 8
+S 
+#85
+The Hole~
+8599 50 2
+O 0 1000 5 8599      Coke Machine
+M 0 8500 1 8599      Clown
+E 1 8500 1 19        Thief Goggles
+E 1 8501 1 6         Orange Hat
+E 1 8502 1 7
+E 1 8503 1 10
+E 1 8504 1 9
+E 1 8506 1 17
+E 1 3047 1 16
+E 1 3048 1 18
+M 0 8504 5 8599
+E 1 8505 5 17
+M 0 8504 5 8598
+E 1 8505 5 17
+M 0 8504 5 8597
+E 1 8505 5 17
+M 0 8504 5 8596
+E 1 8505 5 17
+M 0 8504 5 8595
+E 1 8505 5 17
+M 0 8501 10 8552
+M 0 8501 10 8563
+M 0 8501 10 8571
+M 0 8501 10 8578
+M 0 8501 10 8584
+M 0 8501 10 8589
+M 0 8501 10 8593
+M 0 8501 10 8596
+M 0 8501 10 8598
+M 0 8501 10 8599
+M 0 8502 10 8580     Slug
+M 0 8502 10 8582
+M 0 8502 10 8585
+M 0 8502 10 8588
+M 0 8502 10 8592
+M 0 8502 10 8595
+M 0 8502 10 8596
+M 0 8502 10 8597
+M 0 8502 10 8598
+M 0 8502 10 8599
+M 0 8503 10 8589
+M 0 8503 10 8590
+M 0 8503 10 8591
+M 0 8503 10 8592
+M 0 8503 10 8593
+M 0 8503 10 8594
+M 0 8503 10 8595
+M 0 8503 10 8596
+M 0 8503 10 8597
+M 0 8503 10 8598
+S
+#86
+Paradise Island~
+8699 51 2
+M 0 8600 21 8600
+M 0 8600 21 8601
+M 0 8600 21 8602
+G 1 8601 10
+M 0 8600 21 8603
+M 0 8600 21 8604
+M 0 8600 21 8605
+G 1 8601 10
+M 0 8600 21 8606
+M 0 8600 21 8621
+M 0 8600 21 8622
+G 1 8601 10
+M 0 8600 21 8623
+M 0 8600 21 8624
+M 0 8600 21 8625
+G 1 8601 10
+M 0 8600 21 8626
+M 0 8600 21 8627
+M 0 8600 21 8642
+G 1 8601 10
+M 0 8600 21 8643
+M 0 8600 21 8644
+M 0 8600 21 8645
+G 1 8601 10
+M 0 8600 21 8646
+M 0 8600 21 8647
+M 0 8600 21 8648
+G 1 8601 10
+M 0 8601 10 8624
+E 1 8600 20 16
+E 1 8600 20 17
+E 1 8602 12 3
+M 0 8601 10 8624
+E 1 8600 20 16
+E 1 8600 20 17
+E 1 8602 12 3
+M 0 8601 10 8624
+E 1 8600 20 16
+E 1 8600 20 17
+E 1 8602 12 3
+M 0 8610  5 8627
+M 0 8611  4 8620
+M 0 8612  3 8613
+E 1 8603  1 5
+M 0 8613  2 8606
+E 1 8604  2 19
+S       
+#89
+Ocean/Cloud City~
+8999 52 2
+M 0 8950 15 8952                Lemon Sharks
+M 0 8950 15 8951
+M 0 8950 15 8957
+M 0 8950 15 8953
+M 0 8950 15 8954
+M 0 8950 15 8960
+M 0 8950 15 8961
+M 0 8950 15 8962
+M 0 8950 15 8963
+M 0 8950 15 8964
+M 0 8950 15 8970
+M 0 8950 15 8971
+M 0 8950 15 8972
+M 0 8950 15 8973
+M 0 8950 15 8974
+M 0 8951 3 8955                 Tiger Shark
+G 1 8961 2                        (give shell to it)
+M 0 8951 3 8967                 Tiger Shark
+G 1 8962 2                        (give shell to it)
+M 0 8951 3 8959                 Tiger Shark
+G 1 8963 2                        (give shell to it)
+M 0 8952 1 8976                 Squid
+E 1 8953 1 12                     (make her wear cloak)
+M 0 8953 10 8955                Fish
+M 0 8953 10 8956
+M 0 8953 10 8957
+M 0 8953 10 8958
+M 0 8953 10 8959
+M 0 8953 10 8965
+M 0 8953 10 8966
+M 0 8953 10 8967
+M 0 8953 10 8968
+M 0 8953 10 8969
+M 0 8954 1 8977                 Black Manta
+E 1 8956 1 16                     (make him wield trident)
+M 0 8961 1 8969                 Aquaman
+E 1 8952 1 6                      (make him wear helmet)
+E 1 8959 1 17                     (make him hold shell)
+M 0 8960 3 8954                 Jellyfish
+M 0 8960 3 8973
+M 0 8960 3 8975
+M 0 8955 1 8985                 Thadius
+E 1 8950 1 1                      (make him wear ring)
+M 0 8956 1 8993                 Cloud Giant
+E 1 8951 1 5                      (wear plate on body)
+M 0 8957 1 8998                 Cloud Dragon
+E 1 8958 1 3                      (wear neckless)
+M 0 8958 2 8994                 Cloud Elementals
+M 0 8958 2 8986
+M 0 8959 4 8995                 Tornadoes
+M 0 8959 4 8984
+M 0 8959 4 8992
+M 0 8959 4 8987
+M 0 8962 3 8997                 Orphans
+M 0 8962 3 8991
+M 0 8962 3 8979
+M 0 8963 1 8996                 Dictator
+E 1 8957 1 13                     (make him wear belt)
+M 0 8964 6 8982                 Cloud City Guards
+M 0 8964 6 8984
+M 0 8964 6 8986
+M 0 8964 6 8988
+M 0 8964 6 8991
+M 0 8964 6 8994
+M 0 8965 1 8994                 Baron
+M 0 8966 1 8986                 Baroness
+M 0 8967 3 8992                 Bums
+M 0 8967 3 8982
+M 0 8967 3 8990
+M 0 8968 1 8990                 Freya        
+E 1 8954 1 16                     (make her wield sword)
+M 0 8969 1 8990                 Lynch
+E 1 8955 1 16                     (make him wield sword)
+M 0 8970 3 8990                 Customers
+M 0 8970 3 8990
+M 0 8970 3 8990
+M 0 8973 2 8980                 Debris
+M 0 8973 2 8980
+M 0 8971 1 8972                 Whale
+E 1 8960 1 16                     (make him wield tooth)
+M 0 8972 5 8952                 Eels        
+M 0 8972 5 8960
+M 0 8972 5 8963
+M 0 8972 5 8970
+M 0 8972 5 8974
+M 0 8974 1 8985                 Onyx
+E 1 8964 1 11                     (make him wear shield)
+M 0 8975 1 8990                 Wally the Bartender
+G 1 8965 300                      (give him mead to sell)
+G 1 8966 300                      (give him steak to sell)
+M 0 8976 6 8956                 Lobster
+M 0 8976 6 8958
+M 0 8976 6 8962
+M 0 8976 6 8966
+M 0 8976 6 8968
+M 0 8976 6 8971
+S
+#90
+Arachnos~
+9099 19 2
+M 0 9001 10 9001		young spider
+M 0 9001 10 9006		young spider
+M 0 9001 10 9006                young spider
+M 0 9001 10 9004		young spider
+M 0 9005 1 9003			wasp
+M 0 9010 1 9042			bird spider
+M 0 9003 1 9013			wolf spider
+M 0 9008 5 9008			slave
+M 0 9008 5 9008                 slave
+M 0 9008 5 9008                 slave
+M 0 9008 5 9008                 slave
+M 0 9008 5 9008                 slave
+M 0 9009 2 9027			quasit
+M 0 9007 5 9035			ethereal spider
+M 0 9007 5 9033			ethereal spider
+M 0 9004 1 9032			stuck orc
+M 0 9006 3 9021			drone spider
+G 1 1335 10                        give it a speckled potion
+M 0 9006 3 9031			drone spider
+G 1 1335 10			   give it a speckled potion
+M 0 9011 1 9073			Hermit
+E 1 9002 2 6			  give him a wizard's hat
+M 0 9015 1 9050			Ki-Rin
+G 1 6109 50                        give him a blue potion
+G 1 6109 40                        give him a blue potion
+M 0 9014 1 9099			Arachnos
+E 1 9003 3 6			  give her a pontiff's headdress
+G 1 9001 5			  give her a thief's knife
+G 1 6109 30                       give her a blue potion
+M 0 9012 1 9070			Donjonkeeper
+G 1 9001 5			   give him the thief's knife
+G 1 6109 20			   give him a blue potion
+M 0 9013 1 9067			guardian
+M 0 9006 3 9030			drone spider
+M 0 9002 1 9060  Yevaud
+E 1 9004 2 6	   give him a black knight's visor
+G 1 6109 20        a blue potion
+M 0 9016 1 9030			baby dragon
+M 0 9017 1 9040			elder wormkin
+M 0 9020 1 9022
+D 0 9092 0 1
+D 0 9099 2 1
+S
+#91
+Tower of Sorcery~
+9299 53 2
+M 0 9100 8 9104          Shadow Guardian
+M 0 9100 8 9105          Shadow Guardian
+M 0 9100 8 9106          Shadow Guardian
+M 0 9100 8 9108          Shadow Guardian
+M 0 9100 8 9110          Shadow Guardian
+M 0 9100 8 9111          Shadow Guardian
+M 0 9101 1 9111          Adventurer
+G 1 3000 500                 give barrel
+G 1 3010 500                 give bread
+E 1 3022 500 16              wield long
+E 1 3030 500 0               hold torch
+M 0 9102 1 9107          Edgar
+E 1 3021 500 16              wield small
+M 0 9103 1 9112          Golem at Entrance
+M 0 9104 7 9113          Wandering Mage
+M 0 9104 7 9114          Wandering Mage
+M 0 9104 7 9114          Wandering Mage
+M 0 9104 7 9115          Wandering Mage
+M 0 9104 7 9116          Wandering Mage
+M 0 9104 7 9118          Wandering Mage
+M 0 9104 7 9119          Wandering Mage
+O 0 9100 1 9114          Fountain in Common Room
+D 0 9116 3 1               Close Kitchen Door
+D 0 9117 5 1               Close Trapdoor
+M 0 9105 1 9118          Strick the Bartender
+G 1 9151 100               give brew
+G 1 9152 100               give waybread
+G 1 3010   500               give bread
+G 1 3100   500               give tea
+G 1 3101   500               give coffee
+G 1 6013   500               give water barrel
+M 0 9106 1 9119          Tatorious the Wizard
+G 1 3033 100                 give box
+G 1 3051 500                 give yellow potion
+G 1 3053 500                 give wand invis
+G 1 9153 100               give parchment
+G 1 9154 100               give quill
+D 0 9120 1 1
+O 0 9101 1 9120          Oven
+P 1 9104 20 9101         pizza in oven
+P 1 9104 20 9101         
+P 1 9104 20 9101       
+P 1 9104 20 9101 
+P 1 9104 20 9101
+O 0 9102 1 9120          Meat Locker
+P 1 9105 1 9102          fill locker
+P 1 9106 1 9102
+P 1 9106 1 9102
+P 1 9106 1 9102
+M 0 9107 1 9120          The Cook
+E 1 9155 2 16              cleaver
+M 0 9108 1 9120          Assist. Cook
+D 0 9121 4 1               Close Trapdoor
+D 0 9123 0 2               close and lock cell door
+M 0 9109 1 9127          Prisoner
+E 1 9156 1 14              shackles
+D 0 9127 2 2               lock door from inside
+M 0 9110 1 9128          Jailor
+E 1 9123 1 17              key to cell
+D 0 9130 0 1               close door 
+D 0 9130 2 1               close door
+D 0 9131 0 1               close door
+D 0 9131 1 1
+D 0 9131 2 1               close door
+D 0 9132 2 1               close door
+D 0 9133 0 1
+M 0 9111 2 9133          broom
+M 0 9111 2 9133
+M 0 9190 1 9133
+O 0 9107 2 9133          broom
+O 0 9107 2 9133
+D 0 9134 1 1               door
+D 0 9134 2 1
+D 0 9135 0 1               door
+M 0 9112 10 9135         Lesser Guardian
+M 0 9112 10 9135         Lesser Guardian
+M 0 9112 10 9135         Lesser Guardian
+M 0 9112 10 9135         Lesser Guardian
+M 0 9113 7 9135          Greater Guardian  
+D 0 9136 3 1               door
+D 0 9137 3 1               door
+M 0 9114 1 9137          Visiting Mage
+D 0 9138 1 1               door
+D 0 9139 3 1               door
+D 0 9140 0 1               door
+M 0 9112 10 9140         Lesser Guardian
+D 0 9142 2 1
+M 0 9115 3 9142          apprentice
+M 0 9116 3 9142          
+M 0 9117 3 9142
+D 0 9143 0 1               door
+D 0 9144 2 1               door
+M 0 9115 3 9144          apprentice
+M 0 9116 3 9144 
+M 0 9117 3 9144
+D 0 9145 0 1               door
+M 0 9118 3 9145          apprentice
+M 0 9118 3 9145          apprentice
+M 0 9118 3 9145          apprentice
+M 0 9119 1 9145          kitten
+D 0 9146 2 1
+D 0 9148 3 1               door
+D 0 9149 1 1
+M 0 9120 4 9149          student
+M 0 9120 4 9149          student
+M 0 9120 4 9149          student
+M 0 9120 4 9149          student
+M 0 9121 1 9149          teacher
+D 0 9150 3 1               door
+D 0 9151 3 1
+D 0 9152 1 1
+D 0 9154 1 1               door
+M 0 9122 4 9154          student
+M 0 9122 4 9154
+M 0 9122 4 9154
+M 0 9122 4 9154
+M 0 9123 1 9154          teacher
+D 0 9155 2 1               door
+D 0 9156 2 1
+D 0 9157 0 1
+M 0 9124 3 9157           listener
+M 0 9124 3 9157
+M 0 9124 3 9157
+M 0 9125 1 9157           speaker
+D 0 9158 2 1                door
+D 0 9159 0 1
+M 0 9126 3 9159           student
+E 1 9157 6 16               wield dagger
+M 0 9126 3 9159
+E 1 9157 6 16
+M 0 9126 3 9159
+E 1 9157 6 16
+M 0 9127 1 9159           battle master
+E 1 9157 6 17               hold dagger
+D 0 9161 0 1
+D 0 9162 1 1
+D 0 9163 1 1
+D 0 9164 3 1
+M 0 9128 2 9164           teacher
+E 1 3053 50 17                eq staff of sleep
+O 0 9108 1 9164           coffee machine
+P 1 3101 500 9108           coffee
+P 1 3101 500 9108
+P 1 3101 500 9108
+P 1 3101 500 9108
+P 1 3101 500 9108
+P 1 3101 500 9108
+D 0 9165 3 1
+M 0 9129 1 9165           sleeping mage
+E 1 3053 500 17               hold wand
+D 0 9166 1 1
+D 0 9167 3 1
+M 0 9130 1 9167           scribe
+M 0 9112 10 9168          Lesser Guardian
+M 0 9139 4 9168           Golem Sentry
+D 0 9170 0 1
+D 0 9171 2 1
+D 0 9171 3 1
+M 0 9131 2 9171           scribe
+M 0 9131 2 9171           scribe
+D 0 9173 1 1
+M 0 9132 1 9173           Master Scribe
+E 1 9158 1 17
+G 1 9159 2
+G 1 9160 2
+G 1 9161 1
+M 0 9133 1 9173          Assistant Scribe
+G 1 9162 3
+D 0 9174 0 1
+D 0 9175 2 1
+M 0 9113 5 9175          Greater Guardian
+D 0 9177 3 1
+D 0 9178 3 1
+D 0 9179 1 1
+O 0 9109 1 9179          cabinet
+P 1 1471 10  9109          shotgun bullets
+P 1 1473 10  9109          colt bullets
+P 1 7211 500 9109          short
+O 0 9110 1 9179          props..
+O 0 9111 1 9179
+O 0 9112 1 9179
+O 0 9113 1 9179
+D 0 9181 2 1
+D 0 9181 1 1
+D 0 9181 4 1
+M 0 9167 1 9181          werewolf
+E 1 9117 2 16
+E 1 9114 1 17            smithy hammer
+D 0 9182 0 1
+O 0 9115 1 9182          chest
+P 1 9117 2 9115          long sword
+P 1 9118 1 9115          dagger
+P 1 9119 1 9115          scimitar
+M 0 9134 1 9182          Enchanter
+E 1 9116 1 17              hold key
+G 1 9163 1                 scroll of enchantment
+M 0 9135 1 9182          Dancing Sword
+D 0 9184 2 1
+D 0 9186 0 1
+D 0 9187 2 1
+M 0 9136 1 9188          The Mad Alchemist
+E 1 9164 5 17              pouch
+P 1 9165 2 9164          spoon
+P 1 9167 2 9164
+P 1 9168 2 9164
+P 1 9169 2 9164
+P 1 9170 2 9164
+D 0 9190 0 1
+M 0 9137 1 9190          The Summoner
+E 1 9171 2 17              hold teleport staff
+D 0 9191 1 1
+D 0 9194 3 1
+D 0 9195 0 1
+D 0 9195 3 1
+M 0 9138 1 9195          Master of Charm
+E 1 9172 1 17              hold flute
+D 0 9197 2 1
+M 0 3060 15 9197           prisoner guard
+M 0 9166 15 9197           prisoner wolf
+M 0 4000 15 9197           prisoner snake
+M 0 4003 15 9197           prisoner kobold
+M 0 4050 15 9197           prisoner warrior
+M 0 9139 4 9198          golem sentry
+M 0 9139 4 9198          golem sentry
+D 0 9200 0 1
+M 0 9113 4 9200          Greater Guardian
+D 0 9201 2 1
+D 0 9201 3 1
+O 0 9120 1 9201          Staff
+D 0 9202 1 1
+D 0 9202 3 1
+M 0 9140 1 9202          Spell Binder
+E 1 9125 1 17              hold key
+E 1 9174 2 13              wear belt
+P 1 9175 2 9174          wand in belt
+D 0 9203 1 1
+D 0 9203 2 1
+O 0 9121 1 9203          cabinet
+P 1 9126 1 9121          staff
+P 1 9127 1 9121          staff
+O 0 9122 1 9203          cabinet
+P 1 9128 1 9122          wand
+P 1 9129 1 9122          wand
+P 1 9130 1 9122          wand
+D 0 9205 0 1
+D 0 9208 3 1
+D 0 9209 1 1
+D 0 9209 5 1
+M 0 9141 1 9209          Golem Maker
+E 1 9176 2 17              hold chisel
+M 0 9142 1 9209          Granite Golem
+M 0 9145 2 9209          Cloth Golem
+M 0 9143 1 9211          Bronze Golem
+M 0 9144 1 9211          Flesh Golem
+M 0 9146 1 9211          Adamantite Golem
+M 0 9147 1 9211          Clay Golem
+D 0 9212 4 1
+D 0 9212 5 1
+D 0 9216 2 1
+D 0 9217 0 1
+M 0 9148 1 9217          Master of Illusion
+D 0 9219 2 1
+D 0 9220 0 1
+D 0 9222 1 1
+D 0 9223 3 1
+M 0 9149 1 9225          The Necromancer
+E 1 9179 2 3               wear cowl
+M 0 9150 4 9225          Skeleton
+M 0 9150 4 9225
+M 0 9151 1 9225          Undead Giant
+E 1 9181 1 16              Wield Club
+M 0 9139 5 9228          Golem Sentry
+M 0 9139 5 9228
+M 0 9112 10 9230         Lesser Guardian
+M 0 9113 5 9233          Greater Guardian
+D 0 9234 1 1
+D 0 9235 3 1
+M 0 9152 3 9235          Witch
+M 0 9152 3 9235
+M 0 9152 3 9235
+O 0 9131 1 9235          Cauldrin
+P 1 9132 1 9131         bat wings
+P 1 9133 1 9131         eyeball
+M 0 9153 1 9237          Librarian
+O 0 9134 1 9245          The Book of Magic
+P 1 9135 1 9134          Spectacles of True Seeing
+M 0 9113 5 9249          Greater Guardian
+D 0 9252 2 1
+D 0 9253 0 1
+M 0 9154 1 9253          Neutral Apprentice
+E 1 9182 1 12              wear robe
+E 1 9184 1 14              wear bracelet
+M 0 9155 1 9254          Grey Familiar
+M 0 9156 1 9254          Neutral Guildmaster
+E 1 9183 1 3               wear cloak
+E 1 9185 1 16              wield staff
+E 1 9186 1 17              hold ward
+D 0 9260 1 1
+D 0 9261 3 1
+M 0 9157 1 9261          Evil Apprentice
+E 1 9187 1 12              wear robe
+E 1 9188 1 14              wear bracelet
+M 0 9158 1 9264          Black Familiar
+M 0 9159 1 9264          Evil Guildmaster
+E 1 9189 1 3               wear cloak
+E 1 9190 1 16              wield shard
+E 1 9186 1 17              hold ward
+D 0 9266 3 1
+D 0 9267 1 1
+M 0 9160 1 9267          Good Apprentice
+E 1 9191 1 12              wear robe
+E 1 9192 1 14              wear bracelet
+M 0 9161 1 9269          White Familiar
+M 0 9162 1 9269          Good Guildmaster
+E 1 9193 1 3               wear cloak
+E 1 9194 1 16              wield dagger
+E 1 9186 1 17              hold ward
+D 0 9273 0 1
+D 0 9274 0 1
+D 0 9274 2 1
+D 0 9275 0 1
+D 0 9275 2 1
+D 0 9276 2 1
+M 0 9163 1 9277          Chalico Cat
+E 1 9195 1 3               wear collar
+M 0 9164 1 9277          Grand Master of Magic
+E 1 9201 2 5               wear scale
+E 1 9197 1 1               wear ring
+E 1 9198 1 14              wear bracelet
+E 1 9199 1 17              hold ward
+E 1 9200 1 16              wield kris
+G 1 9139 1                 give key
+D 0 9280 1 1
+D 0 9280 3 1
+O 0 9136 1 9280          altar
+P 1 9137 1 9136          medallion in altar
+D 0 9281 3 1
+O 0 9138 1 9281          chest in treasury
+P 1 9140 1 9138          coins in chest
+O 0 9141 1 9282          cloak
+O 0 9142 1 9282          poncho
+O 0 9143 1 9282          boots
+O 0 9144 1 9282          ring
+S
+#93
+Loftwick~
+9399 54 2
+M 0 9311  1 9302
+M 0 9311  1 9302
+M 0 9312  1 9302
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9304  1 9302
+M 0 9311  2 9303
+M 0 9311  2 9303
+M 0 9312  1 9303
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9311  5 9305
+M 0 9311  1 9305
+M 0 9311  4 9307
+M 0 9309  3 9308
+M 0 9301 4 9309
+M 0 9301 4 9309
+M 0 9316  1 9312
+E 1 9309 10 17
+E 1 9320 10 2
+M 0 9313  2 9313
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9313  2 9313
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9305  3 9315
+M 0 9305  3 9316
+M 0 9309  2 9317
+M 0 9309  4 9317
+M 0 9305  3 9318
+M 0 9306  4 9320
+M 0 9306  4 9320
+M 0 9306  4 9320
+M 0 9306  4 9320
+M 0 9307  1 9320
+E 1 9301  1 16
+E 1 9308  1 13
+M 0 9313  3 9322
+E 1 9314 20 5
+E 1 9315 20 16
+M 0 9313  3 9322
+E 1 9314 20 5
+E 1 9315 20 16
+M 0 9313  1 9322
+E 1 9314 20 5
+E 1 9315 20 16
+M 0 9313  1 9322
+E 1 9314 20 5
+E 1 9315 20 16
+M 0 9313  1 9322
+E 1 9314 20 5
+E 1 9315 20 16
+M 0 9302 15 9324
+M 0 9302 15 9324
+M 0 9302 15 9324
+M 0 9302 15 9324
+M 0 9302 15 9324
+M 0 9309 15 9324
+M 0 9304  1 9325
+M 0 9302 25 9326
+M 0 9302 25 9326
+M 0 9309  3 9327
+M 0 9309  4 9328
+M 0 9310 10 9329
+M 0 9310 10 9329
+M 0 9301 4 9330
+M 0 9311 10 9331
+M 0 9311 20 9331
+M 0 9301 4 9332
+M 0 9319  5 9335
+M 0 9319  5 9335
+M 0 9319  5 9335
+M 0 9310 6 9336
+M 0 9310 6 9336
+M 0 9310 6 9336
+M 0 9311 10 9336
+M 0 9313  1 9336
+M 0 9313  1 9337
+E 1 9314 30 5
+E 1 9315 30 16
+M 0 9313  2 9337
+E 1 9314 30 5
+E 1 9315 30 16
+M 0 9310 5 9338
+M 0 9310 5 9338
+M 0 9309 15 9338
+M 0 9302 5 9338
+M 0 9302 5 9338
+M 0 9302 5 9338
+M 0 9310 5 9340
+M 0 9310 5 9340
+M 0 9301 7 9341
+M 0 9315 1 9342
+E 1 9321 1 5
+E 1 9320 2 2
+G 1 9311 30
+G 1 9312 99
+M 0 9310 5 9343
+M 0 9311 6 9343
+M 0 9311 6 9343
+M 0 9311 6 9343
+M 0 9303 7 9344
+M 0 9303 5 9344
+M 0 9311 10 9347
+M 0 9311 10 9347
+M 0 9313 5 9350
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9313 5 9350
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9313 5 9350
+E 1 9314 10 5
+E 1 9315 10 16
+M 0 9318 1 9351
+E 1 9310 3 17
+M 0 9311 10 9352
+M 0 9311 10 9352
+M 0 9312 4 9353
+E 1 9314 5 5
+E 1 9315 5 16
+M 0 9312 4 9353
+E 1 9314 5 5
+E 1 9315 5 16
+M 0 9304 6 9356
+M 0 9308 1 9360
+E 1 9318 2 3
+E 1 9319 1 0
+M 0 9304 6 9363
+E 1 9393 3 17
+M 0 9317 1 9366
+E 1 9302 1 10
+E 1 9303 1 7
+E 1 9304 1 6
+E 1 9305 1 8
+E 1 9306 1 9
+E 1 9307 1 11
+E 1 9316 1 2
+S
+#94
+Xebani~
+9430 55 2
+M 0 9401 1 9402
+M 0 9401 1 9407
+M 0 9401 1 9413
+M 0 9401 1 9414
+M 0 9401 1 9417
+M 0 9401 1 9419
+M 0 9401 1 9422
+M 0 9402 1 9402
+M 0 9402 1 9408
+M 0 9402 1 9413
+M 0 9402 1 9414
+M 0 9402 1 9418
+M 0 9402 1 9422
+M 0 9403 2 9405
+M 0 9404 5 9405
+M 0 9405 6 9406
+M 0 9405 4 9420
+M 0 9405 2 9426
+M 0 9406 1 9408
+E 1 9401 10 16
+M 0 9407 3 9409
+M 0 9408 5 9410
+M 0 9409 6 9411
+M 0 9410 3 9404
+M 0 9410 4 9415
+M 0 9411 1 9416
+E 1 9402 20 3
+M 0 9412 1 9423
+E 1 9404 10 17
+M 0 9413 5 9428
+M 0 9414 8 9429
+G 1 9403 99
+S
+#95
+Ghost Town~
+9599 54 2
+M 0 9501 40 9502                        Ghost
+E 1 9500 -9 17
+M 0 9501 40 9515
+E 1 9500 -9 17
+M 0 9506 40 9503                          |
+E 1 9503 99 11
+M 0 9501 40 9522
+E 1 9500 -9 17
+M 0 9500 15 9505                          V
+E 1 9500 -9 17
+M 0 9501 40 9507
+E 1 9500 -9 17
+M 0 9506 40 9508
+M 0 9501 40 9510
+E 1 9500 -9 17
+M 0 9501 40 9510
+E 1 9500 -9 17
+M 0 9501 40 9518
+E 1 9500 -9 17
+M 0 9507 40 9503                          |
+E 1 9500 -9 17
+M 0 9501 40 9515
+E 1 9500 -9 17
+M 0 9501 40 9522                          ^
+E 1 9500 -9 17
+M 0 9500 40 9507
+E 1 9500 -9 17
+M 0 9506 40 9522                        Ghost
+E 1 9500 -9 17
+M 0 9501 40 9502                        Ghost
+E 1 9500 -9 17
+M 0 9507 40 9515
+E 1 9500 -9 17
+M 0 9501 40 9503                          |
+E 1 9500 -9 17
+M 0 9506 40 9522
+E 1 9500 -9 17
+M 0 9501 40 9505                          V
+E 1 9500 -9 17
+M 0 9501 40 9507                      
+E 1 9500 -9 17
+M 0 9501 40 9508
+E 1 9500 -9 17
+M 0 9506 40 9510
+E 1 9500 -9 17
+M 0 9501 40 9510
+E 1 9500 -9 17
+M 0 9500 40 9518
+E 1 9500 -9 17
+M 0 9501 40 9503                          |
+E 1 9500 -9 17
+M 0 9506 40 9515
+E 1 9500 -9 17
+M 0 9501 40 9522                          ^
+E 1 9500 -9 17
+M 0 9507 40 9507
+E 1 9500 -9 17
+M 0 9501 40 9522                        Ghost
+E 1 9500 -9 17
+M 0 9506 40 9502                        Ghost
+E 1 9500 -9 17
+M 0 9501 40 9515
+E 1 9500 -9 17
+M 0 9501 40 9503                          |
+E 1 9500 -9 17
+M 0 9507 40 9503                          |
+E 1 9500 -9 17
+M 0 9501 40 9522
+E 1 9500 -9 17
+M 0 9506 40 9505                          V
+E 1 9500 -9 17
+M 0 9501 40 9507                      
+E 1 9500 -9 17
+M 0 9507 40 9508
+E 1 9500 -9 17
+M 0 9501 40 9510
+E 1 9500 -9 17
+M 0 9506 40 9510
+E 1 9500 -9 17
+M 0 9501 40 9518
+E 1 9500 -9 17
+M 0 9500 40 9503                          |
+E 1 9500 -9 17
+M 0 9501 40 9515
+E 1 9500 -9 17
+M 0 9506 40 9522                          ^
+E 1 9500 -9 17
+M 0 9501 40 9507
+E 1 9500 -9 17
+M 0 9501 40 9522                        Ghost
+E 1 9500 -9 17
+M 0 9502 1 9519                         Casper
+M 0 9503 1 9511                         Old Man
+E 1 9501 5 16                          (Make him wield Holy Cross)
+M 0 9504 1 9521                         Devil
+E 1 9502 5 16                           (Make him wield Unholy Cross)
+M 0 9505 3 9521                         Spirit
+M 0 9505 3 9521                         Spirit
+M 0 9505 3 9521                         Spirit
+S
+#96
+Morgoth~
+9699 55 2
+M 0 9600 6 9604    Goat
+M 0 9600 6 9605    Goat
+M 0 9600 6 9608    Goat
+M 0 9600 6 9609    Goat
+M 0 9600 6 9611    Goat
+M 0 9600 6 9616    Goat
+M 0 9615 3 9617    Snowcat
+M 0 9615 3 9628    Snowcat
+M 0 9615 3 9624    Snowcat
+M 0 9610 1 9618    Wandering Mage
+E 1 9640 1 17         Walking stick
+M 0 9630 1 9630    Griffen
+E 1 9630 1 12         Griffen wings
+M 0 9625 1 9625    Mother Rok
+M 0 9626 3 9625    Baby Rok
+M 0 9626 3 9625    Baby Rok
+M 0 9626 3 9625    Baby Rok
+M 0 9622 1 9622    Trien
+E 1 9632 1 17         Platinum key
+M 0 9619 1 9619    Unicorn
+E 1 9610 1 17         Horn of the unicorn
+O 0 9620 9 9639    Holy water
+M 0 9633 3 9633    White cleric
+E 1 9650 3 13         White sash
+M 0 9633 3 9640    White cleric
+E 1 9650 3 13         White sash
+M 0 9633 3 9643    White cleric
+E 1 9650 3 13         White sash
+M 0 9635 3 9645    Green cleric
+E 1 9660 3 13         Green sash
+M 0 9635 3 9639    Green cleric
+E 1 9660 3 13         Green sash
+M 0 9635 3 9642    Green cleric
+E 1 9660 3 13         Green sash
+M 0 9637 3 9641    Black cleric
+E 1 9670 3 13         Black sash
+M 0 9637 3 9646    Black cleric
+E 1 9670 3 13         Black sash
+M 0 9637 3 9637    Black cleric
+E 1 9670 3 13         Black sash
+M 0 9640 1 9646    Felnor
+E 1 9600 1 16         Platinum dirk
+E 1 9690 1 13         Platinum sash
+M 0 9645 3 9648    Slave
+E 1 9680 3 3          Collar
+M 0 9645 3 9648    Slave
+E 1 9680 3 3          Collar
+M 0 9645 3 9648    Slave
+E 1 9680 3 3          Collar
+M 0 9650 1 9650      Dindae
+D 0 9622 5 1  Floorboards
+D 0 9631 4 1  Floorboards
+D 0 9631 5 1  Winerack
+D 0 9632 4 1  Winerack
+D 0 9632 2 2  Platinum gate
+D 0 9633 0 2  Platinum gate
+D 0 9636 1 1  Drape
+D 0 9641 3 1  Drape
+D 0 9636 3 1  Drape
+D 0 9640 1 1  Drape
+D 0 9636 2 1  Door
+D 0 9638 0 1  Door
+D 0 9646 5 1  Altar
+D 0 9648 4 1  Altar
+S
+#98
+Tomb of Xitechile~
+9849 56 2
+M 0 9800 1 9811
+E 1 9801 1 9
+E 1 9802 1 17
+E 1 2322 1 1
+M 0 9801 1 9806
+E 1 9800 1 16
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 10 9811
+M 0 9802 20 9802
+M 0 9802 20 9803
+M 0 9802 20 9804
+M 0 9802 20 9805
+M 0 9802 20 9806
+M 0 9802 20 9807 
+M 0 9802 20 9808
+M 0 9802 20 9809
+M 0 9802 20 9810
+M 0 9802 20 9801
+D 0 9810 5 1 
+S
+#100
+The Cube~
+10999 57 3
+M 0 10034 16 10073
+M 0 10034 16 10079
+M 0 10034 16 10121
+M 0 10034 16 10129
+M 0 10034 16 10393
+M 0 10034 16 10399
+M 0 10034 16 10441
+M 0 10034 16 10449
+M 0 10000 15 10001
+M 0 10000 15 10008
+M 0 10000 15 10064
+M 0 10001 18 10122
+M 0 10001 18 10132
+M 0 10001 18 10142
+M 0 10001 18 10152
+E 1 10001 1 9
+M 0 10001 18 10152
+M 0 10001 18 10162
+M 0 10002 16 10172
+M 0 10002 16 10182
+M 0 10002 16 10192
+E 1 10002 1 10
+M 0 10002 16 10123
+M 0 10002 16 10133
+M 0 10003 15 10123
+M 0 10003 15 10113
+M 0 10003 15 10104
+E 1 10003 1 8
+M 0 10003 15 10342
+M 0 10003 15 10352
+M 0 10004 15 10362
+E 1 10022 1 19
+M 0 10004 15 10372
+M 0 10004 15 10382
+E 1 10004 1 6
+M 0 10004 15 10282
+M 0 10004 15 10272
+M 0 10005 15 10262
+M 0 10005 15 10252
+M 0 10005 15 10242
+E 1 10005 1 7
+M 0 10005 15 10223
+M 0 10005 15 10224
+E 1 10017 1 11
+M 0 10006 12 10333
+M 0 10006 12 10333
+E 1 10006 1 20
+M 0 10007 12 10444
+M 0 10007 12 10444
+M 0 10008 15 10111
+M 0 10008 15 10121
+M 0 10008 15 10222
+M 0 10008 15 10211
+M 0 10008 15 10112
+M 0 10009 15 10510
+M 0 10009 15 10503
+M 0 10009 15 10447
+M 0 10009 15 10222
+M 0 10009 15 10222
+M 0 10010 1 10511
+E 1 10010 1 11
+E 1 10009 1 17
+M 0 10011 1 10511
+E 1 10011 1 9
+M 0 10012 1 10438
+E 1 10018 1 11
+E 1 10019 1 9
+M 0 10015 1 10399
+E 1 17020 1 17
+E 1 10014 1 5
+E 1 10013 1 7
+M 1 10016 1 10499
+E 1 10015 1 5
+E 1 10016 -25 14
+M 0 10020 1 10219
+E 1 10012 1 17
+E 1 10008 1 18
+E 1 10007 1 3
+M 0 10030 1 10101
+M 0 10031 9 10500
+M 0 10031 9 10400
+M 0 10031 9 10300
+M 0 10032 8 10205
+M 0 10032 8 10215
+M 0 10032 8 10225
+M 0 10032 8 10235
+M 0 10032 8 10245
+M 0 10032 8 10255
+E 1 10020 1 8
+M 0 10032 8 10265
+M 0 10032 8 10275
+M 0 10033 9 10111
+M 0 10033 9 10111
+E 1 10021 3 17
+M 0 10033 9 10111
+M 0 10033 9 10111
+E 1 10021 3 17
+M 0 10033 9 10111
+M 0 10033 9 10111
+S
+#110
+Tower of Midgaard~
+11999 58 2
+M 0 11001 10 11001
+M 0 11001 10 11003
+E 1 11021 10 8
+M 0 11001 10 11006
+E 1 11011 10 3 
+M 0 11001 10 11010
+E 1 11021 10 8
+M 0 11001 10 11014
+E 1 11011 10 3 
+M 0 11002 10 11003
+E 1 11021 10 8
+M 0 11002 10 11006
+E 1 11011 10 3 
+M 0 11002 10 11009
+E 1 11021 10 8
+M 0 11002 10 11011
+E 1 11001 10 5
+M 0 11002 10 11013
+E 1 11011 10 3 
+M 0 11003 10 11004
+E 1 11021 10 8
+M 0 11003 10 11008
+E 1 11011 10 3 
+E 1 11001 10 5
+M 0 11003 10 11012
+E 1 11011 10 3 
+M 0 11003 10 11016
+E 1 11001 10 5
+M 0 11003 10 11021
+E 1 11021 10 8
+M 0 11004 10 11013
+E 1 11011 10 3 
+M 0 11004 10 11014
+E 1 11001 10 5
+M 0 11004 10 11017
+E 1 11021 10 8
+M 0 11004 10 11022
+E 1 11001 10 5
+M 0 11004 10 11026
+E 1 11021 10 8
+M 0 11005 10 11031
+E 1 11021 10 8
+M 0 11005 10 11038
+E 1 11001 10 5
+M 0 11005 10 11042
+E 1 11021 10 8
+M 0 11005 10 11056
+E 1 11011 10 3 
+M 0 11005 10 11059
+E 1 11001 10 5
+M 0 11006 10 11064
+E 1 11022 10 8
+M 0 11006 10 11067
+E 1 11011 10 3 
+M 0 11006 10 11069
+E 1 11001 10 5
+M 0 11006 10 11076
+E 1 11022 10 8
+M 0 11006 10 11082
+E 1 11022 10 8
+M 0 11007 10 11094
+E 1 11002 10 5
+M 0 11007 10 11096
+E 1 11022 10 8
+M 0 11007 10 11101
+E 1 11022 10 8
+M 0 11007 10 11103
+E 1 11011 10 3 
+M 0 11007 10 11106
+E 1 11002 10 5
+M 0 11008 10 11109
+E 1 11012 10 3 
+M 0 11008 10 11113
+E 1 11001 10 5
+M 0 11008 10 11118
+E 1 11022 10 8
+M 0 11008 10 11121
+E 1 11001 10 5
+M 0 11008 10 11126
+E 1 11022 10 8
+M 0 11009 10 11124
+E 1 11012 10 3 
+E 1 11002 10 5
+M 0 11009 10 11134
+E 1 11022 10 8
+M 0 11009 10 11143
+E 1 11022 10 8
+M 0 11009 10 11152
+E 1 11022 10 8
+M 0 11009 10 11161
+E 1 11012 10 3 
+M 0 11010 10 11171
+E 1 11002 10 5
+M 0 11010 10 11184
+E 1 11012 10 3 
+M 0 11010 10 11189
+E 1 11023 10 8
+M 0 11010 10 11193
+E 1 11002 10 5
+M 0 11010 10 11196
+E 1 11012 10 3 
+M 0 11011 10 11199
+E 1 11031 10 19
+M 0 11011 10 11201
+E 1 11031 10 19
+M 0 11011 10 11212
+E 1 11012 10 3 
+E 1 11002 10 5
+M 0 11011 10 11224
+E 1 11031 10 19
+M 0 11011 10 11233
+E 1 11031 10 19
+M 0 11012 10 11221
+E 1 11031 10 19
+M 0 11012 10 11231
+E 1 11012 10 3 
+E 1 11002 10 5
+M 0 11012 10 11241
+E 1 11031 10 19
+M 0 11012 10 11251
+E 1 11003 10 5
+M 0 11012 10 11261
+E 1 11031 10 19
+M 0 11013 10 11288
+E 1 11012 10 3 
+E 1 11003 10 5
+M 0 11013 10 11297
+E 1 11012 10 3 
+E 1 11041 3 17
+M 0 11013 10 11292
+E 1 11002 10 5
+M 0 11013 10 11303
+E 1 11023 10 8
+M 0 11013 10 11314
+E 1 11012 10 3 
+E 1 11003 10 5
+M 0 11014 10 11311
+E 1 11031 10 19
+M 0 11014 10 11321
+E 1 11002 10 5
+M 0 11014 10 11331
+E 1 11023 10 8
+M 0 11014 10 11341
+E 1 11003 10 5
+M 0 11014 10 11441
+E 1 11031 10 19
+E 1 11041 3 17
+M 0 11015 10 11332
+E 1 11013 10 3
+M 0 11015 10 11343
+E 1 11031 10 19
+M 0 11015 10 11354
+E 1 11023 10 8
+M 0 11015 10 11365
+E 1 11003 10 5
+E 1 11013 10 3
+E 1 11041 3 17
+M 0 11015 10 11376
+E 1 11032 10 19
+M 0 11016 10 11371
+E 1 11023 10 8
+M 0 11016 10 11377
+E 1 11003 10 5
+M 0 11016 10 11381
+E 1 11013 10 3
+M 0 11016 10 11383
+E 1 11032 10 19
+M 0 11016 10 11386
+E 1 11003 10 5
+M 0 11017 10 11394
+E 1 11023 10 8
+M 0 11017 10 11396
+E 1 11013 10 3
+M 0 11017 10 11397
+E 1 11003 10 5
+M 0 11017 10 11398
+E 1 11032 10 19
+M 0 11017 10 11399
+E 1 11032 10 19
+M 0 11018 10 11374
+E 1 11013 10 3
+E 1 11040 3 18
+M 0 11018 10 11384
+E 1 11003 10 5
+M 0 11018 10 11394
+E 1 11032 10 19
+M 0 11018 10 11404
+E 1 11023 10 8
+M 0 11018 10 11414
+E 1 11013 10 3
+M 0 11019 10 11333
+E 1 11032 10 19
+M 0 11019 10 11444
+E 1 11023 10 8
+M 0 11019 10 11555
+E 1 11032 10 19
+M 0 11019 10 11543
+E 1 11003 10 5
+M 0 11019 10 11432
+E 1 11013 10 3
+M 0 11020 10 11643
+E 1 11032 10 19
+M 0 11020 10 11583
+E 1 11023 10 8
+M 0 11020 10 11603
+E 1 11004 10 5
+M 0 11020 10 11623
+E 1 11024 10 8
+M 0 11020 10 11643
+E 1 11013 10 3
+M 0 11021 10 11619
+E 1 11024 10 8
+M 0 11021 10 11629
+E 1 11023 10 8
+M 0 11021 10 11639
+E 1 11004 10 5
+M 0 11021 10 11649
+E 1 11024 10 8
+M 0 11021 10 11659
+E 1 11004 10 5
+M 0 11022 6 11631
+E 1 11014 10 3
+M 0 11022 6 11671
+E 1 11004 10 5
+M 0 11022 6 11672
+E 1 11013 10 3
+M 0 11023 6 11661
+E 1 11004 10 5
+M 0 11023 6 11684
+E 1 11013 10 3
+M 0 11023 6 11688
+E 1 11004 10 5
+M 0 11024 6 11661
+E 1 11014 10 3
+M 0 11024 6 11672
+E 1 11004 10 5
+M 0 11024 6 11695
+E 1 11014 10 3
+M 0 11025 6 11692
+E 1 11004 10 5
+M 0 11025 6 11701
+E 1 11024 10 8
+M 0 11025 6 11704
+E 1 11004 10 5
+M 0 11026 6 11707
+E 1 11014 10 3
+E 1 11032 10 19
+M 0 11026 6 11714
+E 1 11014 10 3
+M 0 11026 6 11721
+E 1 11005 10 5
+E 1 11040 3 18
+M 0 11027 6 11702
+E 1 11005 10 5
+E 1 11032 10 19
+M 0 11027 6 11712
+E 1 11024 10 8
+E 1 11005 10 5
+M 0 11027 6 11722
+E 1 11005 10 5
+E 1 11024 10 8
+M 0 11028 1 11729
+E 1 11005 10 5
+E 1 11033 3 19
+M 0 11029 1 11735
+E 1 11024 10 8
+E 1 11005 10 5
+E 1 11014 10 3
+E 1 11040 3 18
+M 0 11030 1 11740
+E 1 11005 10 5
+E 1 11014 10 3
+M 0 11031 2 11744
+E 1 11024 10 8
+E 1 11005 10 5
+E 1 11014 10 3
+E 1 11033 3 19
+M 0 11032 2 11747
+E 1 11005 10 5
+E 1 11024 10 8
+E 1 11014 10 3
+M 0 11033 1 11749
+E 1 11033 3 19
+E 1 11005 10 5
+E 1 11014 10 3
+E 1 11024 10 8
+M 0 11034 8 11749
+M 0 11034 8 11749
+E 1 11042 4 7
+M 0 11034 8 11749
+M 0 11034 8 11749
+E 1 11042 4 9
+M 0 11034 8 11749
+M 0 11034 8 11749
+E 1 11042 4 10
+M 0 11034 8 11749
+M 0 11034 8 11749
+E 1 11042 4 19
+S
+#120
+The Suburbs~
+12099 59 2
+D 0 12030 0 2
+D 0 12031 2 2
+M 0 12000 1 12004
+E 1 12000 1 19
+M 0 12001 1 12004
+E 1 12002 1 17
+M 0 12010 1 12005
+M 0 12011 1 12029
+E 1 12001 1 17
+M 0 12012 1 12005
+M 0 12013 1 12005
+M 0 12005 1 12007
+M 0 12006 1 12007
+M 0 12007 1 12007
+E 1 12005 1 18
+M 0 12008 1 12007
+M 0 12020 1 12029
+E 1 12020 1 3
+E 1 12021 1 21
+M 0 12031 2 12062
+M 0 12031 2 12062
+M 0 12032 2 12062
+E 1 12030 1 9
+M 0 12032 2 12062
+M 0 12033 2 12062
+E 1 12030 1 8
+M 0 12033 2 12062
+M 0 12034 2 12062
+E 1 12032 2 17
+M 0 12034 2 12062
+M 0 12035 2 12062
+E 1 12033 1 5
+E 1 12034 1 10
+M 0 12035 2 12062
+E 1 12035 1 19
+M 0 12039 1 12069
+E 1 12036 1 13
+M 0 12055 1 12055
+E 1 12055 1 19
+M 1 12040 1 12050
+M 1 12041 1 12050
+M 1 12042 1 12050
+M 1 12043 3 12045
+M 1 12043 3 12047
+M 1 12043 3 12049
+M 1 12044 3 12041
+M 1 12044 3 12042
+M 1 12044 3 12043
+M 1 12045 2 12040
+M 1 12045 2 12044
+M 0 12050 1 12059
+G 1  2829 50
+G 1 12050 50
+M 0 12046 1 12003
+M 0 12047 1 12018
+S
+#121
+Calpurnia~
+12199 31 2
+M 0 1565 9 12106
+E 1 1526 3 21
+M 0 1566 9 12107
+E 1 1569 3 6
+M 0 1567 9 12108
+E 1 1568 3 7
+M 0 1568 9 12109
+E 1 1574 3 9
+E 1 1575 3 12
+E 1 1576 3 14
+M 0 1569 9 12105
+E 1 1577 1 16
+S
+#140
+The Crypt~
+14199 33 1
+M 0 14000 1 14041               lord neleus
+E 1 14007 10 16                   scimitar
+M 0 14001 1 14094               lady illyria
+E 1 14009 10 18                   wand of fire
+M 0 14002 1 14159               lady emathia
+E 1 14010 10 3                    pendant
+E 1 14002 1 4                     key chain
+M 0 14003 1 14120               lord melanion
+E 1 14012 20 18                   bag
+M 0 14004 1 14079               lord dardanus
+E 1 14008 5 16                    staff of power
+M 0 14005 13 14014              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14022              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14053              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14032              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14039              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14125              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14138              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14066              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14121              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14112              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14148              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14106              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14005 13 14118              skeletons
+E 1 14013 100 16                  scimitar
+M 0 14006 10 14018              zombies
+M 0 14006 10 14059              zombies
+M 0 14006 10 14132              zombies
+M 0 14006 10 14147              zombies
+M 0 14006 10 14051              zombies
+M 0 14006 10 14066              zombies
+M 0 14006 10 14041              zombies
+M 0 14006 10 14013              zombies
+M 0 14006 10 14085              zombies
+M 0 14006 10 14091              zombies
+M 0 14007 7 14108               wights
+M 0 14007 7 14069               wights
+M 0 14007 7 14134               wights
+M 0 14007 7 14149               wights
+M 0 14007 7 14127               wights
+M 0 14007 7 14040               wights
+M 0 14007 7 14052               wights
+M 0 14008 6 14058               wraith
+M 0 14008 6 14125               wraith
+M 0 14008 6 14145               wraith
+M 0 14008 6 14093               wraith
+M 0 14008 6 14021               wraith
+M 0 14008 6 14047               wraith
+M 0 14009 8 14063               ghoul
+M 0 14009 8 14121               ghoul
+M 0 14009 8 14112               ghoul
+M 0 14009 8 14149               ghoul
+M 0 14009 8 14153               ghoul
+M 0 14009 8 14071               ghoul
+M 0 14009 8 14037               ghoul
+M 0 14009 8 14027               ghoul
+M 0 14010 4 14157               ghast
+M 0 14010 4 14102               ghast
+M 0 14010 4 14022               ghast
+M 0 14010 4 14058               ghast
+M 0 14011 5 14119               shadow
+M 0 14011 5 14094               shadow
+M 0 14011 5 14072               shadow
+M 0 14011 5 14134               shadow
+M 0 14011 5 14124               shadow
+M 0 14012 3 14070               carrion crawler
+M 0 14012 3 14148               carrion crawler
+M 0 14012 3 14099               carrion crawler
+M 0 14013 13 14015              bat
+M 0 14013 13 14023              bat
+M 0 14013 13 14054              bat
+M 0 14013 13 14033              bat
+M 0 14013 13 14040              bat
+M 0 14013 13 14126              bat
+M 0 14013 13 14139              bat
+M 0 14013 13 14067              bat
+M 0 14013 13 14122              bat
+M 0 14013 13 14113              bat
+M 0 14013 13 14107              bat
+M 0 14013 13 14119              bat
+M 0 14013 13 14147              bat
+M 0 14014 3 14124               stirge
+M 0 14014 3 14148               stirge
+M 0 14014 3 14072               stirge
+M 0 14015 1 14133               black pudding
+M 0 14016 1 14040               flesh golem
+E 1 14000 1 18                    key
+M 0 14017 1 14119               wood golem
+E 1 14005 1 18                    key
+M 0 14018 1 14093               clay golem
+E 1 14004 1 18                    key
+M 0 14019 1 14158               stone golem
+E 1 14006 1 18                    key
+M 0 14020 1 14077               iron golem
+E 1 14014 20 16                   sword
+E 1 14002 1 18                    key
+M 0 14021 1 14078               guardian skeleton
+E 1 14015 10 16                   scimitar
+E 1 14003 1 18                    key
+D 0 14040 0 2
+D 0 14041 2 2
+D 0 14073 2 2
+D 0 14074 0 2
+D 0 14077 3 2
+D 0 14078 1 2
+D 0 14078 3 2
+D 0 14079 1 2
+D 0 14093 2 2
+D 0 14094 0 2
+D 0 14119 3 2
+D 0 14120 1 2
+D 0 14158 1 2
+D 0 14159 3 2
+S
+#150
+The Dragons~
+15099 32 2
+M 0 1517 1 1600         Bum
+E 1 1507 1 6
+M 0 15000 3 15020
+M 0 15000 3 15040
+M 0 15000 3 15060
+M 0 15017 2 15041    Fat Old Dragon
+M 0 15017 2 15082
+M 0 15018 3 15025    Dragon Hunter
+E 1 15019 2 17
+M 0 15018 3 15050
+E 1 15017 2 17
+M 0 15018 3 15075
+E 1 15018 2 17       Fireproof bag
+S
+#151
+Demon Castle+Swamp~
+15199 34 1
+D 1 15127 4 1       Door Below Outer Ward
+D 0 15147 5 1       Door to Terrasque
+D 0 15126 5 1       Door Above Outer Ward
+M 0 15101 1 15100    Ancient Pine Tree
+M 1 15102 1 15101    Ancient Cherry Tree
+M 1 15103 1 15102    Ancient Oak Tree
+E 1 15112 1 17       New Oak Seed
+M 1 15104 1 15103    Ancient Birch Tree
+M 1 15105 1 15104    Ancient Willow Tree
+E 1 15113 1 17       New Willow Seed
+M 1 15106 1 15105    Ancient Redwood Tree
+M 0 15107 10 15102     Dryad (Max - 2)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15103     Dryad (Max - 2)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15108     Dryad (Max - 10)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15109     Dryad (Max - 10)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15110     Dryad (Max - 10)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15112     Dryad (Max - 10)
+E 1 15101 1 16         Silver Dagger
+M 1 15107 10 15115     Dryad (Max - 10)
+E 1 15101 1 16         Silver Dagger
+M 1 15108 10 15115     Pixie (Max - 10)
+M 1 15108 10 15112     Pixie (Max - 10)
+M 0 15109 1 15110    King-Fisher
+M 0 15110 5 15109    Alligator (Max - 5)
+M 1 15110 5 15108    Alligator (Max - 5)
+M 1 15110 5 15112    Alligator (Max - 5)
+M 0 15111 10 15101   Jackal (Max - 10)
+M 1 15111 10 15106   Jackal (Max - 10)
+M 1 15111 10 15107   Jackal (Max - 10)
+M 1 15111 10 15108   Jackal (Max - 10)
+M 1 15111 10 15108   Jackal (Max - 10)
+M 1 15111 10 15109   Jackal (Max - 10)
+M 1 15111 10 15110   Jackal (Max - 10)
+M 0 15113 15 15125   Skeletal Warrior (Max - 15)
+M 1 15113 15 15128   Skeletal Warrior (Max - 15)
+M 1 15113 15 15128   Skeletal Warrior (Max - 15)
+M 1 15113 15 15133   Skeletal Warrior (Max - 15)
+M 1 15113 15 15133   Skeletal Warrior (Max - 15)
+M 1 15113 15 15140   Skeletal Warrior (Max - 15)
+M 1 15113 15 15141   Skeletal Warrior (Max - 15)
+M 1 15113 15 15142   Skeletal Warrior (Max - 15)
+M 1 15113 15 15144   Skeletal Warrior (Max - 15)
+M 1 15114 2 15143    Were-Shark (Max - 2)
+M 0 15114 2 15142    Were-Shark (Max - 2)
+M 1 15115 1 15138    Creeping Death
+M 0 15116 1 15148    Terrasque in (Death) Chamber
+E 1 15111 1 17       Diamond
+M 0 15117 1 15147    Dungeon Master Above Terrasque
+E 1 15110 1 9        Bloody Gloves
+M 0 15118 1 15153    Derek on First Floor
+E 1 15104 1 16       Phantom Sword
+E 1 15105 1 5        Phantom Armor
+M 1 15119 1 15153    Forge on First Floor
+E 1 15106 1 11       Huge Ancient Shield
+M 0 15120 1 15160    King Jae-Mar
+E 1 15102 1 17       Tome of Focused Thoughts
+E 1 15103 1 6        Crown of Might
+E 1 15109 1 1        Steel Ring
+M 1 15121 1 15160    Queen Jinsil
+E 1 15108 1 12       Silk Cape
+E 1 15107 1 17       Starjewel
+S
+#156
+The Abyss~
+15699 35 1
+M 0 15615 1 15610              demon statue
+M 0 15600 5 15613              skeletons
+E 1 15601 10 16                 scimitars
+M 0 15600 5 15615
+E 1 15601 10 16
+M 0 15600 5 15618
+E 1 15601 10 16
+M 0 15600 5 15626
+E 1 15601 10 16
+M 0 15600 5 15626
+E 1 15601 10 16
+M 0 15601 7 15613              zombies
+M 0 15601 7 15618
+M 0 15601 7 15615
+M 0 15601 7 15618
+M 0 15601 7 15626
+M 0 15601 7 15626
+M 0 15601 7 15634
+M 0 15602 10 15615             wights 
+M 0 15602 10 15615
+M 0 15602 10 15621
+M 0 15602 10 15618
+M 0 15602 10 15634
+M 0 15602 10 15646
+M 0 15602 10 15646
+M 0 15602 10 15646
+M 0 15602 10 15660
+M 0 15602 10 15660
+M 0 15603 28 15621             wraiths
+M 0 15603 28 15640
+M 0 15603 28 15640
+M 0 15603 28 15646
+M 0 15603 28 15648
+M 0 15603 28 15648
+M 0 15603 28 15658
+M 0 15603 28 15660
+M 0 15603 28 15668
+M 0 15603 28 15677
+M 0 15603 28 15677
+M 0 15603 28 15689
+M 0 15603 28 15690
+M 0 15603 28 15691
+M 0 15604 10 15656             specters 
+M 0 15604 10 15658
+M 0 15604 10 15660
+M 0 15604 10 15665
+M 0 15604 10 15648
+M 0 15604 10 15658
+M 0 15604 10 15675
+M 0 15604 10 15677
+M 0 15604 10 15686
+M 0 15604 10 15689
+M 0 15604 10 15686
+M 0 15605 1 15650              lich 
+E 1 15607 1 17                 staff of power
+M 0 15606 1 15643              dracolich
+E 1 15610 1 5                  diamond armor
+G 1 15617 1                    gold coins
+M 0 15607 1 15683              vampire 
+E 1 15621 1 17                   key to coffin
+M 0 15608 6 15646              undead giants 
+M 0 15608 6 15656
+M 0 15608 6 15656
+M 0 15608 6 15660
+M 0 15608 6 15665
+M 0 15608 6 15665
+M 0 15609 5 15648              undead ogres
+M 0 15609 5 15658
+M 0 15609 5 15658
+M 0 15609 5 15668
+M 0 15609 5 15668
+M 0 15610 1 15670              erinyes
+E 1 15602 1 5                  fiend hide shirt
+E 1 15603 1 7                  fiend hide skirt
+E 1 15615 1 16                 white onyx sword
+M 0 15611 1 15689              black abishai
+E 1 15612 1 3                  black amulet
+M 0 15612 1 15690              green abishai
+E 1 15613 1 3                  green amulet
+M 0 15613 1 15691              red abishai
+E 1 15614 1 3                  red amulet
+M 0 15614 8 15673              spinagons
+E 1 15604 1 16                 black tridents
+M 0 15614 8 15673
+E 1 15604 1 16
+M 0 15614 8 15673
+E 1 15604 1 16
+M 0 15614 8 15675
+E 1 15604 1 16
+M 0 15614 8 15680
+E 1 15604 1 16
+M 0 15614 8 15680
+E 1 15604 1 16
+M 0 15614 8 15680
+E 1 15604 1 16
+M 0 15614 8 15680
+E 1 15604 1 16
+M 0 15616 1 15696              pit fiend
+E 1 15629 1 12                 hide
+E 1 15624 1 16                 fiend's talon
+E 1 15620 1 17                 golden key
+M 0 15617 1 15629              gargoyle
+G 1 15605 1                    black scroll
+G 1 15623 1                    black potion
+E 1 15622 1 17                 chest key
+M 0 15618 1 15654              water demon
+E 1 15625 1 11                 sapphire shield
+M 0 15619 1 15609              evil high priest 
+E 1 15626 1 16                   mace of destruction
+M 0 15620 1 15699              cornugon
+E 1 15628 1 10                   bracers
+M 0 15621 1 15662              black slime
+E 1 15627 1 17                   chunk of slime
+O 0 15616 1 15630              heavy battle axe
+O 0 15611 1 15630              large chest
+P 1 15609 1 15611                ring in chest
+O 0 15618 1 15683              coffin
+P 1 15608 1 15618                sphere in coffin
+O 1 15619 1 15678              "welcome" sign
+D 0 15610 5 1                  close trapdoor from altar
+D 0 15611 4 1                  close trapdoor from abyss
+D 0 15696 0 2                  close and lock golden door from temple
+D 0 15697 0 2                  close and lock golden door from portal
+S
+#158
+The skull kingdom~
+15899 37 2
+O 0 15805 1 15805
+M 0 15800 1 15806
+G 1 15800 5
+D 0 15806 0 2
+D 0 15807 2 2
+M 0 15802 3 15807
+M 0 15802 3 15808
+M 0 15802 3 15809
+M 0 15803 3 15810
+M 0 15803 3 15811
+O 0 15804 1 15812
+P 1 15803 1 15804
+P 1 15821 9 15804
+M 0 15803 3 15813
+M 0 15804 3 15814
+M 0 15804 3 15815
+M 0 15804 3 15816
+M 0 15805 3 15823
+M 0 15805 3 15824
+M 0 15805 3 15825
+M 0 15806 3 15826
+M 0 15806 3 15827
+M 0 15806 3 15828
+M 0 15807 3 15829
+M 0 15807 3 15830
+M 0 15807 3 15831
+M 0 15801 1 15837
+G 1 15801 5
+D 0 15837 2 2
+D 0 15838 0 2
+M 0 15808 2 15839
+E 1 15806 15 6
+M 0 15808 2 15843
+E 1 15807 15 11
+M 0 15809 1 15844
+E 1 15808 15 13
+M 0 15810 1 15845
+E 1 15809 15 12
+M 0 15811 1 15846
+E 1 15810 15 3
+M 0 15814 1 15847
+E 1 15814 15 8
+M 0 15812 1 15848
+E 1 15812 15 5
+E 1 15813 15 6
+M 0 15813 1 15848
+D 0 15848 2 2
+D 0 15848 3 2
+D 0 15849 0 2
+O 0 15818 1 15849
+O 0 15819 2 15849
+D 0 15850 1 2
+M 0 15815 1 15852
+M 0 15816 1 15853
+E 1 15820 15 17
+M 0 15817 1 15854
+E 1 15822 20 17
+M 0 15818 4 15857
+M 0 15818 4 15859
+M 0 15818 4 15861
+M 0 15818 4 15863
+M 0 15819 1 15866
+E 1 15816 12 18
+M 0 15820 1 15867
+E 1 15815 1 0
+D 0 15935 5 2
+S
+#159
+Dormant Volcano~
+15999 38 2
+M 0 15901 16 15901
+M 0 15901 16 15901
+M 0 15901 16 15901
+M 0 15901 16 15904
+M 0 15901 16 15903
+M 0 15901 16 15903
+M 0 15901 16 15905
+M 0 15901 16 15905
+M 0 15901 16 15905
+M 0 15901 16 15908
+M 0 15901 16 15907
+M 0 15901 16 15907
+M 0 15901 16 15909
+M 0 15901 16 15909
+M 0 15901 16 15911
+M 0 15902 5 15918
+M 0 15902 5 15922
+M 0 15902 5 15919
+M 0 15902 5 15923
+M 0 15902 5 15920
+M 0 15903 4 15931
+E 1 15901 10 1
+M 0 15903 4 15928
+E 1 15902 5 16
+M 0 15903 4 15924
+E 1 15901 10 1
+M 0 15903 4 15933
+E 1 15902 5 16
+M 0 15904 1 15935
+E 1 15903 4 8
+S
+#160
+Labyrinth~
+16099 39 2
+M 0 16006 10 16006
+M 0 16003 50 16001
+M 0 16003 50 16001
+M 0 16003 50 16001
+M 0 16003 50 16001
+M 0 16003 50 16001
+E 1 16008 4 16
+M 0 16003 50 16002
+M 0 16003 50 16002
+M 0 16003 50 16002
+M 0 16003 50 16002
+M 0 16003 50 16002
+M 0 16004 10 16005
+M 0 16005 10 16006
+M 0 16003 50 16008
+E 1 16007 3 9
+M 0 16003 50 16009
+M 0 16004 10 16010
+M 0 16003 50 16011
+M 0 16005 10 16011
+M 0 16003 50 16012
+M 0 16003 50 16013
+M 0 16003 50 16020
+E 1 16008 4 16
+M 0 16004 10 16020
+M 0 16004 10 16020
+M 0 16004 10 16020
+M 0 16004 10 16020
+M 0 16004 10 16020
+M 0 16004 10 16020
+M 0 16004 10 16020
+E 1 16008 4 16
+M 0 16003 50 16030
+E 1 16007 3 9
+M 0 16003 50 16031
+M 0 16003 50 16032
+M 0 16004 10 16032
+M 0 16005 10 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16033
+M 0 16003 50 16040
+E 1 16007 3 9
+M 0 16003 50 16041
+M 0 16003 50 16042
+M 0 16004 10 16042
+M 0 16003 50 16043
+M 0 16003 50 16044
+M 0 16003 50 16045
+E 1 16008 4 16
+M 0 16003 50 16046
+M 0 16004 10 16046
+M 0 16003 50 16047
+M 0 16003 50 16051
+M 0 16003 50 16053
+M 0 16004 10 16053
+M 0 16003 50 16025
+M 0 16003 50 16047
+M 0 16005 10 16055
+M 0 16003 50 16055
+M 0 16003 50 16057
+M 0 16004 10 16057
+M 0 16003 50 16035
+M 0 16003 50 16040
+M 0 16005 10 16057
+M 0 16003 50 16057
+M 0 16005 10 16025
+M 0 16003 50 16025
+M 0 16004 10 16025
+M 0 16003 50 16044
+M 0 16005 10 16041
+M 0 16003 50 16041
+M 0 16007 60 16005
+M 0 16007 60 16010
+M 0 16007 60 16015
+M 0 16007 60 16020
+M 0 16007 60 16025
+M 0 16007 60 16030
+M 0 16001 1 16004        Leviathon
+E 1 16002 1 6
+E 1 16003 1 1
+E 1 16004 1 3
+M 0 16002 1 16029        Pinhead
+E 1 16005 1 16
+E 1 16006 1 17
+D 0 16054 0 1
+D 0 16054 1 1
+S
+#165
+The Trail~
+16999 41 2
+M 0 16500 25 16550
+E 1 16621 1 17
+M 0 16500 25 16600
+E 1 16622 1 17
+M 0 16500 25 16650
+E 1 16623 1 17
+M 0 16500 25 16700
+E 1 16500 1 10
+M 0 16500 25 16750
+E 1 16501 1 13
+M 0 16520 12 16737
+M 0 16520 12 16747
+M 0 16520 12 16757
+M 0 16520 12 16767
+M 0 16520 12 16777
+M 0 16520 12 16787
+M 0 16501 3 16575
+M 0 16501 3 16675
+M 0 16501 3 16775
+M 0 16600 4 16525
+M 0 16600 4 16540
+M 0 16502 1 16910   Phineas
+G 1 16900 99
+G 1  3002 99
+M 0 16601 4 16930   Serpents
+M 0 16601 4 16931
+O 0 16509 1 16932   Hyacinth
+M 0 16602 4 16680   Bear
+M 0 16602 4 16690
+M 0 16602 4 16700
+M 0 16602 4 16710
+M 0 16503 1 16920   Friar
+E 1 16502 1 17
+M 0 16504 1 16940   Knight
+E 1 16503 1 1
+E 1 16504 1 10
+E 1 16505 1 7
+E 1 16506 1 6
+M 0 16505 1 16940   Steed
+M 0 16507 1 16952   Blacksmith
+E 1 16910 1 16      Hammer
+E 1 16508 1 19      Mask
+E 1 16507 1 12      Apron
+M 0 16511 3 16970   Giant
+M 0 16511 3 16971   Giant
+E 1 16522 1 7
+M 0 16511 3 16972   Giant
+M 0 16510 1 16973   Damsel
+E 1 16510 -25 10
+E 1 16513 -25 3
+E 1 16514 -50 7
+M 0 16513 2 16973   Handmaiden
+M 0 16512 1 16966   Minstrel
+E 1 16511 -50 12      Cloth Robe
+M 0 16603 12 16959  Leprechaun
+M 0 16603 12 16959
+M 0 16603 12 16959
+M 0 16603 12 16960
+M 0 16603 12 16958
+M 0 16603 12 16958
+M 0 16603 12 16958
+M 0 16603 12 16961
+M 0 16603 12 16957
+M 0 16603 12 16957
+M 0 16603 12 16957
+M 0 16603 12 16962
+M 0 16614 5 16957
+M 0 16614 5 16958
+E 1 16636 1 20
+M 0 16614 5 16959
+M 0 16614 5 16960
+M 0 16614 5 16961
+M 0 16615 5 16958
+M 0 16615 5 16960
+M 0 16615 5 16961
+E 1 16615 1 21
+M 0 16615 5 16962
+M 0 16615 5 16963
+M 0 16616 3 16960
+M 0 16616 3 16961
+M 0 16616 3 16962
+M 0 16617 6 16960
+M 0 16617 6 16962
+E 1 16639 1 6
+M 0 16617 6 16963
+M 0 16618 6 16961
+M 0 16618 6 16962
+M 0 16618 6 16963
+M 0 16619 1 16963   King of Leps
+E 1 16618 1 16       Hammer
+E 1 16619 1 17       Flail
+M 0 16604 3 16981    Younger Druid
+M 0 16604 3 16984    Younger Druid
+M 0 16604 3 16985    Younger Druid
+M 0 16605 3 16988    Druid
+E 1 16514 1 3          Necklace
+M 0 16605 3 16986    Druid
+E 1 16530 1 1
+M 0 16605 3 16987    Druid
+M 0 16606 1 16983    Elder Druid
+E 1 16515 1 6          Hood
+E 1 16516 2 3
+E 1 16531 1 1
+M 0 16607 1 16983
+E 1 16517 5 1
+E 1 16517 5 2
+M 0 16608 1 16988    Druid Priestess
+E 1 16521 1 12         robe
+E 1 16519 2 17
+M 0 16609 10 16988   Wandering
+M 0 16550 3 16523
+M 0 16550 3 16546
+M 0 16550 3 16569
+M 0 16551 3 16592
+M 0 16551 3 16615
+M 0 16551 3 16638
+M 0 16552 3 16661
+E 1 16517 5 17
+M 0 16552 3 16684
+E 1 16517 5 17
+M 0 16552 3 16699
+E 1 16517 5 17
+M 0 16609 10 16670
+M 0 16609 10 16685
+M 0 16609 10 16600
+M 0 16609 10 16615
+M 0 16609 10 16630
+M 0 16609 10 16645
+M 0 16609 10 16660
+M 0 16609 10 16675
+M 0 16609 10 16690
+M 0 16553 1 16698
+M 0 16610 1 16698
+E 1 16634 1 1
+E 1 16638 1 3
+E 1 16630 1 17
+G 1 16631 1
+G 1 16632 1
+M 0 16612 4 16681
+M 0 16612 4 16689
+E 1 16633 2  5
+M 0 16613 4 16682
+M 0 16613 4 16688
+E 1 16633 2  5
+M 0 16620 2 16670
+M 0 16620 2 16675
+M 0 16621 4 16680
+M 0 16621 4 16685
+M 0 16621 4 16690
+M 0 16621 4 16695
+M 0 16622 4 16696
+M 0 16622 4 16697
+M 0 16622 4 16698
+M 0 16622 4 16699
+D 0 16966 5 1    Well
+D 0 16968 4 1
+D 0 16967 0 2    Castle
+D 0 16970 2 2
+D 0 16972 1 2    Chamber
+D 0 16973 3 2
+S
+#170
+The Philosophers~
+17099 42 43
+M 0 17099 24 17000
+M 0 17099 24 17010
+M 0 17099 24 17020
+M 0 17099 24 17030
+M 0 17099 24 17040
+M 0 17099 24 17050
+M 0 17099 24 17060
+M 0 17099 24 17070
+M 0 17000 1 17000  Socrates
+E 1 17024 1 16      meta sword
+E 1 17002 1 17      hemlock
+M 0 17001 1 17000
+M 0 17002 1 17000
+M 0 17003 1 17069  Anaximander
+M 0 17004 1 17069  Anaximenes
+E 1 17007 1 17      staff of advancing
+M 0 17005 1 17020  Descartes
+E 1 17001 1 10      sleeves
+M 0 17006 1 17020  Bacon
+E 1 17003 1 17      Great Seal
+M 0 17007 1 17020  Spinoza
+E 1 17006 1 19
+M 0 17010 1 17030
+M 0 17011 1 17030
+M 0 17012 1 17030  Schopenhauer
+E 1 17008 1 17      wand of stupidity
+M 0 17015 1 17040
+M 0 17016 1 17040
+M 0 17017 1 17040
+M 0 17020 1 17050  Russell
+E 1 17005 1 16      sss
+M 0 17030 1 17063  St. Augustine
+E 1 17000 1 17      thwapper
+M 0 17031 1 17063
+M 0 17032 1 17063
+M 0 17040 1 17070  Pythagoras
+E 1 17009 1 17
+O 0  1462 9 17040
+P 1 17004 3 1462
+P 1 17004 3 1462
+P 1 17004 3 1462
+S
+#171
+The North Sea~
+17199 43 55
+M 0 17100 1 17120
+E 1 17100 1 16
+E 1 17101 1 5
+M 0 17101 8 17110
+M 0 17101 8 17112
+M 0 17101 8 17114
+M 0 17101 8 17116
+M 0 17101 8 17120
+M 0 17101 8 17122
+M 0 17101 8 17124
+M 0 17101 8 17126
+M 0 17102 8 17138
+M 0 17102 8 17130
+M 0 17102 8 17132
+M 0 17102 8 17134
+M 0 17102 8 17128
+M 0 17102 8 17140
+M 0 17102 8 17142
+M 0 17102 8 17144
+M 0 17103 8 17133
+M 0 17103 8 17133
+M 0 17103 8 17137
+M 0 17103 8 17137
+M 0 17103 8 17141
+M 0 17103 8 17141
+M 0 17103 8 17145
+M 0 17103 8 17145
+M 0 17104 8 17135
+M 0 17104 8 17135
+M 0 17104 8 17139
+M 0 17104 8 17139
+M 0 17104 8 17143
+M 0 17104 8 17143
+M 0 17104 8 17147
+M 0 17104 8 17147
+M 0 17105 1 17149
+E 1 17105 1 14
+E 1 17106 1 10
+E 1 17107 1 1
+E 1 17109 1 21
+M 0 17106 3 17147
+M 0 17106 3 17148
+M 0 17106 3 17149
+M 0 17107 1 17149
+M 0 17108 4 17146
+E 1 17103 1000 17
+M 0 17108 4 17147
+E 1 17103 1000 17
+M 0 17108 4 17148
+E 1 17103 1000 17
+M 0 17108 4 17149
+E 1 17103 1000 17
+M 0 17109 2 17146
+E 1 17108 2 19
+M 0 17109 2 17149
+E 1 17108 2 19
+S
+#172
+The Tunnel~
+17399 44 2
+D 0 17200 4 1
+D 0 17300 5 1
+D 0 17305 4 1
+M 0 17200 10 17233
+M 0 17200 10 17234
+M 0 17200 10 17235
+M 0 17201 10 17266
+E 1 17211 -25 8
+M 0 17201 10 17267
+E 1 17213 1 19
+M 0 17201 10 17268
+M 0 17202 2 17240
+M 0 17202 2 17260
+E 1 17014 1 1
+M 0 17203 2 17250
+M 0 17210 1 17305
+E 1 17212 1 1
+E 1 17200 1 3
+E 1 17201 1 4
+E 1 17210 1 5
+E 1 17202 2 17
+M 0 17211 6 17301
+E 1 17215 6 17
+M 0 17211 6 17302
+E 1 17215 6 17
+M 0 17211 6 17303
+E 1 17215 6 17
+S
+#174
+The Gheps~
+17499 23 2
+D 0 17420 5 1
+D 0 17421 4 1
+D 0 17450 5 1
+D 0 17451 4 1
+M 0 17400 99 17400
+M 0 17400 99 17401
+M 0 17400 99 17402
+M 0 17400 99 17403
+M 0 17400 99 17404
+M 0 17400 99 17405
+M 0 17400 99 17406
+M 0 17400 99 17407
+M 0 17400 99 17408
+M 0 17400 99 17409
+M 0 17400 99 17410
+M 0 17400 99 17411
+E 1 17410 1 1
+M 0 17401 99 17412
+M 0 17401 99 17413
+M 0 17401 99 17414
+M 0 17401 99 17415
+M 0 17401 99 17416
+M 0 17401 99 17417
+M 0 17401 99 17418
+M 0 17401 99 17419
+M 0 17402 99 17420
+E 1 17400 99 17
+M 0 17402 99 17430
+M 0 17402 99 17431
+E 1 17400 99 17
+M 0 17402 99 17432
+M 0 17402 99 17433
+E 1 17400 99 17
+M 0 17402 99 17434
+M 0 17402 99 17435
+E 1 17400 99 17
+M 0 17402 99 17436
+M 0 17402 99 17437
+E 1 17400 99 17
+M 0 17402 99 17438
+M 0 17403 99 17439
+M 0 17403 99 17440
+M 0 17403 99 17441
+M 0 17403 99 17442
+E 1 17401 3 0
+M 0 17403 99 17443
+M 0 17403 99 17444
+M 0 17404 99 17445
+M 0 17404 99 17446
+E 1 17402 3 12
+M 0 17404 99 17447
+M 0 17404 99 17448
+M 0 17405 2 17461
+E 1 17411 1 3
+M 0 17405 2 17462
+E 1 17412 1 5
+M 0 17408 2 17463
+E 1 17413 1 6
+M 0 17408 2 17464
+M 0 17406 100 17465
+E 1 17403 100 17
+E 1 17414 2 7
+M 0 17406 100 17466
+E 1 17403 100 17
+E 1 17415 2 8
+M 0 17406 100 17467
+E 1 17403 100 17
+E 1 17416 2 9
+M 0 17409 100 17468
+E 1 17403 100 17
+E 1 17417 2 10
+M 0 17406 100 17469
+E 1 17403 100 17
+E 1 17414 2 7
+M 0 17406 100 17470
+E 1 17403 100 17
+E 1 17415 2 8
+M 0 17409 100 17472
+E 1 17403 100 17
+E 1 17416 2 9
+M 0 17406 100 17474
+E 1 17403 100 17
+E 1 17417 2 10
+M 0 17406 100 17476
+E 1 17428 3 12
+E 1 17403 100 17
+M 0 17409 100 17478
+E 1 17403 100 17
+G 1 17429 2
+M 0 17407 100 17471
+E 1 17403 100 17
+E 1 17419 2 11
+M 0 17407 100 17473
+E 1 17403 100 17
+E 1 17420 2 12
+M 0 17407 100 17475
+M 0 17407 10 17477
+E 1 17427 1 0
+S
+#180
+The Realm of Music~
+18099 45 2
+M 0 18000 1 18004       monteverdi
+M 0 18001 1 18010       j.s. bach
+E 1 18003 1 3              cross
+M 0 18002 1 18006       j.c. bach
+M 0 18003 1 18015       c.p.e. bach
+M 0 18004 1 18008       vivaldi
+M 0 18005 1 18013       handel
+M 0 18006 1 18019       gluck
+M 0 18007 1 18021       haydn
+E 1 18015 1 7              leg brace
+M 0 18008 1 18024       mozart
+E 1 18005 1 16             great staff
+M 0 18009 1 18029       beethoven
+E 1 18007 1 0              bass clef
+M 0 18010 1 18070       donizetti
+E 1 18013 1 9              gauntlets
+M 0 18011 1 18071       rossini
+E 1 18009 1 16             scissors
+M 0 18012 1 18040       gounod
+M 0 18013 1 18043       bizet
+M 0 18014 1 18056       verdi
+E 1 18000 1 6              brown hat
+M 0 18015 1 18061       wagner
+E 1 18001 1 1              ring
+M 0 18016 1 18062       j. strauss
+E 1 18018 1 13             belt
+M 0 18017 1 18063       r. strauss
+M 0 18018 1 18044       mahler
+E 1 18016 1 18             dirt
+M 0 18019 1 18067       meyerbeer
+M 0 18020 1 18039       saint-saens
+E 1 18012 1 8              boots
+M 0 18021 1 18041       massenet
+E 1 18014 1 9              glove
+M 0 18023 1 18050       puccini
+E 1 18006 1 0              treble clef
+M 0 18024 1 18049       tchaikovsky
+E 1 18008 1 17             queen of spades
+M 0 18027 1 18048       brahms
+E 1 18002 1 19             beard
+M 0 18028 1 18077       liszt
+M 0 18029 1 18076       chopin
+M 0 18030 1 18045       leoncavallo
+E 1 18004 1 8              shoes
+M 0 18031 1 18043       mascagni
+M 0 18022 1 18033       debussy
+E 1 18010 1 10             armband
+M 0 18025 1 18036       stravinsky
+E 1 18017 1 5              suit
+M 0 18026 1 18031       mussorgsky
+E 1 18011 1 18             radio
+S
+#181
+The Abandoned Mines~
+18499 46 2
+M 0 18100 50 18103      miner's ghost
+M 0 18100 50 18108      miner's ghost
+M 0 18100 50 18112      miner's ghost
+M 0 18100 50 18116      miner's ghost
+M 0 18100 50 18119      miner's ghost
+M 0 18100 50 18124      miner's ghost
+M 0 18100 50 18127      miner's ghost
+E 1 1572 -25 1
+M 0 18100 50 18133      miner's ghost
+M 0 18100 50 18137      miner's ghost
+M 0 18100 50 18142      miner's ghost
+M 0 18100 50 18149      miner's ghost
+M 0 18100 50 18156      miner's ghost
+M 0 18100 50 18160      miner's ghost
+M 0 18100 50 18165      miner's ghost
+M 0 18100 50 18171      miner's ghost
+E 1 18100 1 6             hat
+M 0 18100 50 18180      miner's ghost
+M 0 18100 50 18193      miner's ghost
+M 0 18101 25 18115      burly miner's ghost
+M 0 18101 25 18123      burly miner's ghost
+M 0 18101 25 18133      burly miner's ghost
+M 0 18101 25 18139      burly miner's ghost
+M 0 18101 25 18145      burly miner's ghost
+M 0 18101 25 18147      burly miner's ghost
+M 0 18101 25 18157      burly miner's ghost
+M 0 18101 25 18161      burly miner's ghost
+M 0 18101 25 18173      burly miner's ghost
+M 0 18101 25 18184      burly miner's ghost
+E 1 18101 1 6             hat
+M 0 18101 25 18189      burly miner's ghost
+M 0 18101 25 18191      burly miner's ghost
+M 0 18101 25 18199      burly miner's ghost
+M 0 18102 50 18203      very burly miner's ghost
+M 0 18102 50 18208      very burly miner's ghost
+M 0 18102 50 18212      very burly miner's ghost
+M 0 18102 50 18216      very burly miner's ghost
+M 0 18102 50 18219      very burly miner's ghost
+M 0 18102 50 18224      very burly miner's ghost
+M 0 18102 50 18227      very burly miner's ghost
+M 0 18102 50 18233      very burly miner's ghost
+M 0 18102 50 18237      very burly miner's ghost
+M 0 18102 50 18242      very burly miner's ghost
+M 0 18102 50 18249      very burly miner's ghost
+E 1 18102 1 6             hat
+M 0 18102 50 18256      very burly miner's ghost
+M 0 18102 50 18260      very burly miner's ghost
+M 0 18102 50 18265      very burly miner's ghost
+M 0 18102 50 18271      very burly miner's ghost
+M 0 18102 50 18280      very burly miner's ghost
+M 0 18102 50 18293      very burly miner's ghost
+M 0 18103 25 18215      extremely burly miner's ghost
+M 0 18103 25 18223      extremely burly miner's ghost
+M 0 18103 25 18233      extremely burly miner's ghost
+M 0 18103 25 18239      extremely burly miner's ghost
+M 0 18103 25 18245      extremely burly miner's ghost
+E 1 17011 1 6
+M 0 18103 25 18247      extremely burly miner's ghost
+M 0 18103 25 18257      extremely burly miner's ghost
+E 1 18103 1 6             hat
+M 0 18103 25 18261      extremely burly miner's ghost
+M 0 18103 25 18273      extremely burly miner's ghost
+M 0 18103 25 18284      extremely burly miner's ghost
+M 0 18103 25 18289      extremely burly miner's ghost
+M 0 18103 25 18291      extremely burly miner's ghost
+M 0 18103 25 18299      extremely burly miner's ghost
+M 0 18104 50 18303      incredibly burly miner's ghost
+M 0 18104 50 18308      incredibly burly miner's ghost
+M 0 18104 50 18312      incredibly burly miner's ghost
+M 0 18104 50 18316      incredibly burly miner's ghost
+M 0 18104 50 18319      incredibly burly miner's ghost
+M 0 18104 50 18324      incredibly burly miner's ghost
+M 0 18104 50 18327      incredibly burly miner's ghost
+M 0 18104 50 18333      incredibly burly miner's ghost
+M 0 18104 50 18337      incredibly burly miner's ghost
+M 0 18104 50 18342      incredibly burly miner's ghost
+M 0 18104 50 18349      incredibly burly miner's ghost
+M 0 18104 50 18356      incredibly burly miner's ghost
+M 0 18104 50 18360      incredibly burly miner's ghost
+M 0 18104 50 18365      incredibly burly miner's ghost
+M 0 18104 50 18371      incredibly burly miner's ghost
+M 0 18104 50 18380      incredibly burly miner's ghost
+E 1 18104 1 6             hat
+M 0 18104 50 18393      incredibly burly miner's ghost
+M 0 18105 25 18315      stupendously burly miner's ghost
+M 0 18105 25 18323      stupendously burly miner's ghost
+M 0 18105 25 18333      stupendously burly miner's ghost
+M 0 18105 25 18339      stupendously burly miner's ghost
+M 0 18105 25 18345      stupendously burly miner's ghost
+M 0 18105 25 18347      stupendously burly miner's ghost
+M 0 18105 25 18357      stupendously burly miner's ghost
+M 0 18105 25 18361      stupendously burly miner's ghost
+M 0 18105 25 18373      stupendously burly miner's ghost
+M 0 18105 25 18384      stupendously burly miner's ghost
+M 0 18105 25 18389      stupendously burly miner's ghost
+M 0 18105 25 18391      stupendously burly miner's ghost
+E 1 18105 1 6             hat
+M 0 18105 25 18399      stupendously burly miner's ghost
+M 0 18106 1 18400       foreman
+E 1 18106 1 6             hat
+S
+#186
+Mind's Eye~
+18694 47 2
+M 0 18600 1 18600
+E 1 18600 99 5
+E 1 18602 99 6
+M 0 18601 1 18601
+E 1 18601 99 19
+M 0 18601 1 18607
+E 1 18602 99 14
+M 0 18601 1 18602
+E 1 18601 99 19
+M 0 18601 1 18604
+M 0 18601 1 18624
+M 0 18601 1 18620
+M 0 18601 1 18612
+M 0 18601 1 18616
+M 0 18601 1 18622
+E 1 18602 99 21
+M 0 18601 1 18618
+E 1 18601 99 19
+M 0 18601 1 18603
+M 0 18601 1 18610
+M 0 18601 1 18613
+M 0 18601 1 18623
+M 0 18601 1 18617
+E 1 18602 99 3
+M 0 18601 1 18615
+E 1 18602 99 5
+M 0 18601 1 18619
+O 0 18604 99 18625
+P 1 18605 99 18604
+P 1 18606 99 18604
+M 0 18605 1 18626
+E 1 18634 99 16
+M 0 18625 1 18626
+E 1 18632 99 21
+O 0 18607 99 18626
+P 1 18624 99 18607
+M 0 18602 1 18632
+G 1 18609 99
+M 0 18625 1 18632
+M 0 18604 1 18629
+G 1 18608 99
+M 0 18603 1 18633
+G 1 18608 99
+M 0 18606 1 18647
+E 1 18603 99 16
+M 0 18603 1 18646
+E 1 18611 9 17
+E 1 18623 1 18607
+M 0 18604 1 18642
+M 0 18602 1 18634
+M 0 18607 1 18645
+E 1 18612 99 12
+M 0 18608 1 18644
+M 0 18608 1 18635
+M 0 18607 1 18639
+E 1 18612 99 12
+M 0 18604 1 18631
+G 1 18609 99
+O 0 18607 99 18651
+P 1 18623 99 18607
+O 0 18614 99 18656
+M 0 18609 1 18658
+G 1 18616 99
+M 0 18613 1 18658
+E 1 18633 99 6
+M 0 18609 1 18652
+G 1 18617 99
+M 0 18609 1 18653
+G 1 18616 99
+M 0 18613 1 18653
+E 1 18633 99 6
+M 0 18609 1 18657
+G 1 18616 99
+M 0 18613 1 18657
+M 0 18609 1 18660
+G 1 18618 99
+M 0 18609 1 18662
+G 1 18618 99
+M 0 18625 1 18662
+E 1 18632 99 21
+M 0 18610 1 18670
+E 1 18615 99 16
+E 1 18631 2 1
+E 1 18631 2 2
+O 0 18613 99 18670
+O 0 18619 99 18670
+O 0 18613 99 18666
+M 0 18611 1 18671
+E 1 18621 99 12
+E 1 18625 99 6
+M 0 18612 1 18671
+M 0 18613 1 18671
+E 1 18633 99 6
+M 0 18614 1 18671
+E 1 18625 99 6
+O 0 18620 99 18671
+O 0 18613 99 18669
+O 0 18614 99 18669
+M 0 18609 1 18664
+G 1 18617 99
+O 0 18613 99 18664
+O 0 18613 99 18668
+M 0 18609 1 18667
+G 1 18618 99
+O 0 18613 99 18667
+M 0 18609 1 18655
+M 0 18609 1 18654
+M 0 18613 1 18654
+M 0 18615 1 18679
+E 1 18622 99 18
+M 0 18616 1 18678
+G 1 18616 99
+M 0 18617 1 18675
+M 0 18618 1 18675
+M 0 18617 1 18677
+M 0 18619 1 18680
+E 1 18626 99 7
+E 1 18627 99 17
+O 0 18628 99 18683
+O 0 18628 99 18685
+O 0 18629 99 18686
+M 0 18620 1 18688
+E 1 18610 99 16
+M 0 18620 1 18691
+E 1 18610 99 16
+M 0 18621 1 18684
+M 0 18622 1 18690
+M 0 18622 1 18692
+O 0 18630 99 18695
+M 0 18623 1 18689
+M 0 18625 1 18641
+E 1 18632 99 21
+M 0 18625 1 18681
+M 0 18625 1 18659
+S
+#187
+Phoenix Cave~
+18695 0 2
+M 0 18624 1 18695
+S
+#190
+$~
